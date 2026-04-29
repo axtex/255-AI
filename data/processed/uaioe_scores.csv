@@ -1,0 +1,656 @@
+OCC_CODE,OCC_TITLE,occ_major_group,AIOE,AIOE_z,UAIOE,UAIOE_ev,AIOE_rank,UAIOE_rank,rank_diff,cluster,cluster_label
+11-1011,Chief Executives,Management,1.334246,1.3351087600846523,1.759442686376865,-1.3085140383686085,66,4,-62,3,Highest Exposure Knowledge & Management
+11-1021,General and Operations Managers,Management,0.5748773,0.5752490353405494,1.150078964784206,-0.92783021561785,233,108,-125,3,Highest Exposure Knowledge & Management
+11-2011,Advertising and Promotions Managers,Management,1.294387,1.2952239863659367,1.2562527322234938,-1.2970269125515574,88,87,-1,3,Highest Exposure Knowledge & Management
+11-2021,Marketing Managers,Management,1.315032,1.3158823358835583,1.52886746299097,-1.316056103973277,80,28,-52,3,Highest Exposure Knowledge & Management
+11-2022,Sales Managers,Management,1.26628,1.2670988117526265,1.7176719262030848,-1.4177692995317195,102,7,-95,3,Highest Exposure Knowledge & Management
+11-3021,Computer and Information Systems Managers,Management,1.059853,1.060538331448723,1.1971606061883304,-0.9829598021303196,151,99,-52,3,Highest Exposure Knowledge & Management
+11-3031,Financial Managers,Management,1.446232,1.4471671727308322,1.542126324734167,-1.5303529542100216,11,25,14,3,Highest Exposure Knowledge & Management
+11-3051,Industrial Production Managers,Management,0.5086878,0.5090167357330598,0.616920312309572,-0.20951864531274839,240,227,-13,1,Moderate Exposure Service & Healthcare
+11-3061,Purchasing Managers,Management,1.423426,1.4243464258623957,1.5377109096964203,-1.3555205721625267,21,26,5,3,Highest Exposure Knowledge & Management
+11-3071,"Transportation, Storage, and Distribution Managers",Management,0.8907923,0.8913683130280986,1.1686743558060146,-0.9315887417125426,188,106,-82,3,Highest Exposure Knowledge & Management
+11-3111,Compensation and Benefits Managers,Management,1.298235,1.2990744745685916,1.4086810132627254,-1.6145247604302815,85,46,-39,3,Highest Exposure Knowledge & Management
+11-3121,Human Resources Managers,Management,1.320417,1.321270817944706,1.7553529490270625,-1.453409367115757,76,5,-71,3,Highest Exposure Knowledge & Management
+11-3131,Training and Development Managers,Management,1.284423,1.2852535434212249,1.7117491290967493,-1.3845190470067252,94,8,-86,3,Highest Exposure Knowledge & Management
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",Management,-0.1443684,-0.144461744976548,-0.011800828301117072,0.49207381474667805,326,334,8,1,Moderate Exposure Service & Healthcare
+11-9021,Construction Managers,Management,1.029139,1.029804471091046,0.6725794118034157,-0.0006771750775535957,162,215,53,1,Moderate Exposure Service & Healthcare
+11-9031,"Education and Childcare Administrators, Preschool and Daycare",Management,0.838007,0.8385488808753974,1.0365971572176165,-0.7800324443538008,198,137,-61,3,Highest Exposure Knowledge & Management
+11-9032,"Education Administrators, Kindergarten through Secondary",Management,1.048811,1.0494891914451587,1.845795774664925,-1.2429525088144693,152,3,-149,3,Highest Exposure Knowledge & Management
+11-9033,"Education Administrators, Postsecondary",Management,1.461149,1.4620938183958534,1.679391874109807,-1.5221296350144313,10,12,2,3,Highest Exposure Knowledge & Management
+11-9041,Architectural and Engineering Managers,Management,0.8370105,0.8375517365162639,1.0787626878571337,-0.6830450585279061,199,125,-74,3,Highest Exposure Knowledge & Management
+11-9051,Food Service Managers,Management,-0.1213112,-0.1213896356765864,0.37422281851729605,-0.06861605501900582,324,267,-57,1,Moderate Exposure Service & Healthcare
+11-9071,Gambling Managers,Management,0.8299207,0.8304573520933995,0.7640892186777555,-0.5962871616260723,200,202,2,1,Moderate Exposure Service & Healthcare
+11-9081,Lodging Managers,Management,0.4021726,0.4024326606282219,0.7956278807542504,-0.3581417153371726,254,194,-60,1,Moderate Exposure Service & Healthcare
+11-9111,Medical and Health Services Managers,Management,1.260259,1.2610739184396886,1.5584218376102155,-1.2130524398777929,104,23,-81,3,Highest Exposure Knowledge & Management
+11-9121,Natural Sciences Managers,Management,1.327906,1.3287646604991972,1.17119566032573,-1.0413448201604996,73,105,32,3,Highest Exposure Knowledge & Management
+11-9131,Postmasters and Mail Superintendents,Management,0.8233757,0.8239081199503706,1.026230748779235,-0.7178944071061899,201,139,-62,3,Highest Exposure Knowledge & Management
+11-9141,"Property, Real Estate, and Community Association Managers",Management,1.215396,1.216181909022926,1.1930405941019182,-1.2452650685819577,116,101,-15,3,Highest Exposure Knowledge & Management
+11-9151,Social and Community Service Managers,Management,1.156153,1.1569006011773235,1.3192624183133137,-1.156970211109281,128,68,-60,3,Highest Exposure Knowledge & Management
+11-9161,Emergency Management Directors,Management,1.030768,1.0314345244387917,1.1846286742297167,-0.6578074167583089,161,104,-57,3,Highest Exposure Knowledge & Management
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",Business & Financial,1.068559,1.069249960942567,1.023163321033102,-1.434291608948992,149,140,-9,2,High Exposure Analytical & Office
+13-1031,"Claims Adjusters, Examiners, and Investigators",Business & Financial,1.274024,1.274847819195807,1.1331268976129663,-1.2282498324281579,100,112,12,3,Highest Exposure Knowledge & Management
+13-1032,"Insurance Appraisers, Auto Damage",Business & Financial,0.6634955,0.6639245378458776,0.3870915645033305,-0.425536737858389,223,264,41,1,Moderate Exposure Service & Healthcare
+13-1041,Compliance Officers,Business & Financial,0.6981205,0.6985719271434145,0.8710387651579887,-0.7676386363691277,217,174,-43,3,Highest Exposure Knowledge & Management
+13-1051,Cost Estimators,Business & Financial,1.367669,1.368553372142171,1.329299542985789,-1.4104066581602448,41,64,23,3,Highest Exposure Knowledge & Management
+13-1071,Human Resources Specialists,Business & Financial,1.36005,1.3609294455267793,1.2201852804544613,-1.4415726116048806,46,93,47,2,High Exposure Analytical & Office
+13-1074,Farm Labor Contractors,Business & Financial,-0.4354025,-0.4356840341190262,-0.8845281204506044,0.19730711983384813,376,481,105,4,Low Exposure Routine Service
+13-1075,Labor Relations Specialists,Business & Financial,1.334834,1.3356971402985716,1.289893342697032,-1.535853084881682,65,80,15,3,Highest Exposure Knowledge & Management
+13-1081,Logisticians,Business & Financial,1.297303,1.2981418719165974,1.3766166786029141,-1.2523800350893641,86,51,-35,3,Highest Exposure Knowledge & Management
+13-1111,Management Analysts,Business & Financial,1.432417,1.4333432396435983,1.7020776847131733,-1.4760448920464275,17,10,-7,3,Highest Exposure Knowledge & Management
+13-1121,"Meeting, Convention, and Event Planners",Business & Financial,0.3740207,0.3742625569815697,0.9316675883638407,-0.4273996023316001,258,161,-97,1,Moderate Exposure Service & Healthcare
+13-1131,Fundraisers,Business & Financial,1.242567,1.2433704783977528,1.5949400897131374,-1.5200684866960217,108,16,-92,3,Highest Exposure Knowledge & Management
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",Business & Financial,1.440985,1.4419167799035637,1.014990622145282,-1.3967862007185006,12,144,132,2,High Exposure Analytical & Office
+13-1151,Training and Development Specialists,Business & Financial,1.198409,1.1991839248497205,1.4815829397047606,-1.3501118454823993,120,34,-86,3,Highest Exposure Knowledge & Management
+13-1161,Market Research Analysts and Marketing Specialists,Business & Financial,1.426757,1.427679579761315,1.5928558206072525,-1.5904022365515984,19,17,-2,3,Highest Exposure Knowledge & Management
+13-2011,Accountants and Auditors,Business & Financial,1.481956,1.4829142726662896,1.3259747247755918,-1.4005124393173363,7,66,59,3,Highest Exposure Knowledge & Management
+13-2031,Budget Analysts,Business & Financial,1.502988,1.5039598724267458,0.9434390973070016,-1.3712403064932692,4,157,153,2,High Exposure Analytical & Office
+13-2041,Credit Analysts,Business & Financial,1.345268,1.34613788715577,1.0917761135942272,-1.5764597303204428,58,123,65,2,High Exposure Analytical & Office
+13-2052,Personal Financial Advisors,Business & Financial,1.400749,1.4016547624082365,1.5986509979801888,-1.7090152980639746,28,15,-13,3,Highest Exposure Knowledge & Management
+13-2053,Insurance Underwriters,Business & Financial,1.326652,1.3275098496348186,1.0277515166749989,-1.4118578941626068,74,138,64,2,High Exposure Analytical & Office
+13-2061,Financial Examiners,Business & Financial,1.526064,1.527050793883207,1.51115045205232,-1.6322897013369078,2,32,30,3,Highest Exposure Knowledge & Management
+13-2071,Credit Counselors,Business & Financial,1.385381,1.3862768251165527,1.1125251258766782,-1.515210110930753,35,116,81,2,High Exposure Analytical & Office
+13-2072,Loan Officers,Business & Financial,1.385739,1.3866350566073404,1.1030610133394463,-1.3881749240262686,34,119,85,2,High Exposure Analytical & Office
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",Business & Financial,1.36682,1.3677038231598284,1.2181019073346133,-1.3465755627057236,43,94,51,2,High Exposure Analytical & Office
+13-2082,Tax Preparers,Business & Financial,1.29371,1.2945465486026315,0.9817056268153636,-1.406072930568674,89,152,63,2,High Exposure Analytical & Office
+15-2011,Actuaries,Computer & Math,1.516474,1.5174545927752392,1.4769814030613273,-1.6115782388478355,3,36,33,3,Highest Exposure Knowledge & Management
+15-2021,Mathematicians,Computer & Math,1.472319,1.4732710411670733,1.4527867709558093,-1.6942393978248502,8,42,34,3,Highest Exposure Knowledge & Management
+15-2031,Operations Research Analysts,Computer & Math,1.40002,1.4009252910205714,1.5465356908606211,-1.5703814832757172,29,24,-5,3,Highest Exposure Knowledge & Management
+15-2041,Statisticians,Computer & Math,1.382724,1.3836181070410711,1.532898610029129,-1.6539293171538003,36,27,-9,3,Highest Exposure Knowledge & Management
+17-1011,"Architects, Except Landscape and Naval",Architecture & Engineering,1.047142,1.0478191122325209,1.337520474365239,-0.9156120718721343,153,62,-91,3,Highest Exposure Knowledge & Management
+17-1012,Landscape Architects,Architecture & Engineering,1.034388,1.0350568652115597,1.1457941023093927,-0.9314732772779546,159,110,-49,3,Highest Exposure Knowledge & Management
+17-1021,Cartographers and Photogrammetrists,Architecture & Engineering,0.8169979,0.8175261959225921,0.7783852827472488,-0.7222626803697613,203,198,-5,3,Highest Exposure Knowledge & Management
+17-1022,Surveyors,Architecture & Engineering,0.1460606,0.1461550528947695,0.4458958677701882,-0.07837972909536021,282,254,-28,1,Moderate Exposure Service & Healthcare
+17-2011,Aerospace Engineers,Architecture & Engineering,1.338738,1.3396036647120757,1.2215939577687684,-1.1025593680746064,63,92,29,3,Highest Exposure Knowledge & Management
+17-2021,Agricultural Engineers,Architecture & Engineering,0.9409636,0.9415720549100774,0.6553399815293839,-0.31226415708292365,178,220,42,1,Moderate Exposure Service & Healthcare
+17-2031,Bioengineers and Biomedical Engineers,Architecture & Engineering,0.9874239,0.9880623971766582,1.102453771868259,-0.8745903175646176,173,120,-53,3,Highest Exposure Knowledge & Management
+17-2041,Chemical Engineers,Architecture & Engineering,1.341336,1.342203344636841,1.0221226752997474,-0.9637267686931823,61,141,80,3,Highest Exposure Knowledge & Management
+17-2051,Civil Engineers,Architecture & Engineering,1.282867,1.2836965372769078,1.353127131587014,-1.0770554967241135,95,59,-36,3,Highest Exposure Knowledge & Management
+17-2061,Computer Hardware Engineers,Architecture & Engineering,1.141812,1.1425503279667542,1.0854446288368707,-1.0014825716472762,135,124,-11,3,Highest Exposure Knowledge & Management
+17-2071,Electrical Engineers,Architecture & Engineering,1.126725,1.1274535723759398,1.1032371966043941,-0.8917079746722966,140,118,-22,3,Highest Exposure Knowledge & Management
+17-2072,"Electronics Engineers, Except Computer",Architecture & Engineering,0.6654578,0.6658881067128395,0.7385095368395225,-0.6830426475873274,222,207,-15,3,Highest Exposure Knowledge & Management
+17-2081,Environmental Engineers,Architecture & Engineering,1.343561,1.3444297833714844,1.330599799936911,-1.0945181426820878,59,63,4,3,Highest Exposure Knowledge & Management
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Architecture & Engineering,0.9948935,0.9955368271866764,0.9419279397772559,-0.6595038699202528,170,158,-12,3,Highest Exposure Knowledge & Management
+17-2112,Industrial Engineers,Architecture & Engineering,1.13787,1.1386057789816018,0.8272966762414498,-0.6826913879168313,137,181,44,3,Highest Exposure Knowledge & Management
+17-2121,Marine Engineers and Naval Architects,Architecture & Engineering,0.5472173,0.5475711497674122,0.20871256234589708,0.08552563895100712,235,292,57,1,Moderate Exposure Service & Healthcare
+17-2131,Materials Engineers,Architecture & Engineering,1.037278,1.0379487339500395,0.9326307232192682,-0.6215078402333665,158,160,2,3,Highest Exposure Knowledge & Management
+17-2141,Mechanical Engineers,Architecture & Engineering,1.004709,1.0053586741079754,0.8624593094616257,-0.666806921535237,169,176,7,3,Highest Exposure Knowledge & Management
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",Architecture & Engineering,1.34695,1.3478209747744982,1.3675946068388065,-1.0869566855797017,56,53,-3,3,Highest Exposure Knowledge & Management
+17-2161,Nuclear Engineers,Architecture & Engineering,1.303009,1.303851561543507,1.1968428086256062,-1.0166164852104838,83,100,17,3,Highest Exposure Knowledge & Management
+17-2171,Petroleum Engineers,Architecture & Engineering,1.247779,1.2485858485932406,1.3557078881553952,-1.2273481751864732,107,58,-49,3,Highest Exposure Knowledge & Management
+17-2199,"Energy Engineers, Except Wind and Solar",Architecture & Engineering,0.787566,0.7880752645993812,0.7661132435254304,-0.592601140140048,205,201,-4,3,Highest Exposure Knowledge & Management
+17-3011,Architectural and Civil Drafters,Architecture & Engineering,0.9233925,0.9239895930447792,0.4302876946730921,-0.6002262048716728,183,260,77,2,High Exposure Analytical & Office
+17-3012,Electrical and Electronics Drafters,Architecture & Engineering,0.910166,0.9107545404947756,0.5131882726795154,-0.7253599986015699,184,245,61,2,High Exposure Analytical & Office
+17-3013,Mechanical Drafters,Architecture & Engineering,0.8410071,0.8415509208069942,0.35697365192580377,-0.6404936993962855,196,268,72,2,High Exposure Analytical & Office
+17-3021,Aerospace Engineering and Operations Technologists and Technicians,Architecture & Engineering,0.3909402,0.3911929975077698,0.23197639291355082,-0.06149949901497958,256,290,34,1,Moderate Exposure Service & Healthcare
+17-3022,Civil Engineering Technologists and Technicians,Architecture & Engineering,0.9323219,0.932924766994048,0.6428902051791247,-0.6849639995256948,181,223,42,2,High Exposure Analytical & Office
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,Architecture & Engineering,0.3515252,0.3517525108893605,0.08291913589019921,0.04207764006942563,261,319,58,1,Moderate Exposure Service & Healthcare
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,Architecture & Engineering,-0.3040507,-0.3042472991144855,-0.4106178144095492,0.7097069638099688,356,382,26,0,Low Exposure Manual & Technical
+17-3025,Environmental Engineering Technologists and Technicians,Architecture & Engineering,0.0438054,0.0438337324009787,-0.18696127000849644,0.16273384438586877,300,358,58,1,Moderate Exposure Service & Healthcare
+17-3026,Industrial Engineering Technologists and Technicians,Architecture & Engineering,0.6106679,0.6110627783410526,0.17176777850165642,0.0826285624324012,229,303,74,1,Moderate Exposure Service & Healthcare
+17-3027,Mechanical Engineering Technologists and Technicians,Architecture & Engineering,-0.1192367,-0.1193137942586011,-0.1753749675099605,0.45740767192540593,323,357,34,1,Moderate Exposure Service & Healthcare
+17-3031,Surveying and Mapping Technicians,Architecture & Engineering,0.0852324,0.0852875200234788,-0.28606901009403196,0.11111168396229967,291,367,76,0,Low Exposure Manual & Technical
+19-1011,Animal Scientists,"Life, Physical & Social Science",1.041358,1.0420313721690708,1.0550251487560245,-0.6811639420939272,155,131,-24,3,Highest Exposure Knowledge & Management
+19-1012,Food Scientists and Technologists,"Life, Physical & Social Science",0.7943575,0.79487115613481,0.8581757695971359,-0.5017669645021426,204,177,-27,3,Highest Exposure Knowledge & Management
+19-1013,Soil and Plant Scientists,"Life, Physical & Social Science",0.6320696,0.6324783171577775,0.7570552137172175,-0.32535948217337035,226,205,-21,1,Moderate Exposure Service & Healthcare
+19-1021,Biochemists and Biophysicists,"Life, Physical & Social Science",0.9060509,0.9066367795793014,1.2792722851832303,-0.7427944808974398,186,84,-102,3,Highest Exposure Knowledge & Management
+19-1022,Microbiologists,"Life, Physical & Social Science",0.6955647,0.6960144745061108,0.6879213822616611,-0.447879842768366,219,213,-6,1,Moderate Exposure Service & Healthcare
+19-1023,Zoologists and Wildlife Biologists,"Life, Physical & Social Science",0.3175953,0.3178006710589924,0.5580779155415445,-0.1470391474797648,263,239,-24,1,Moderate Exposure Service & Healthcare
+19-1029,Bioinformatics Scientists,"Life, Physical & Social Science",1.010193,1.0108462201847317,1.2818813392345896,-0.9259588073490459,168,83,-85,3,Highest Exposure Knowledge & Management
+19-1031,Conservation Scientists,"Life, Physical & Social Science",0.0690313,0.0690759440307473,0.4305592664032151,-0.039265138349036305,294,259,-35,1,Moderate Exposure Service & Healthcare
+19-1032,Foresters,"Life, Physical & Social Science",-0.184381,-0.1845002180164506,0.18274758375783465,0.27117199376087964,334,301,-33,1,Moderate Exposure Service & Healthcare
+19-1041,Epidemiologists,"Life, Physical & Social Science",1.436287,1.437215742071944,1.891593641034235,-1.6574053160402509,16,2,-14,3,Highest Exposure Knowledge & Management
+19-1042,"Medical Scientists, Except Epidemiologists","Life, Physical & Social Science",1.279928,1.2807556368539343,1.192354217993681,-1.1109416536080003,98,102,4,3,Highest Exposure Knowledge & Management
+19-2011,Astronomers,"Life, Physical & Social Science",1.373737,1.3746252958463572,1.433351402390751,-1.286330269356268,39,45,6,3,Highest Exposure Knowledge & Management
+19-2012,Physicists,"Life, Physical & Social Science",1.345736,1.346606189775012,1.5036800053670727,-1.3135640029204418,57,33,-24,3,Highest Exposure Knowledge & Management
+19-2021,Atmospheric and Space Scientists,"Life, Physical & Social Science",1.373917,1.3748054122383735,1.3772297539914935,-1.4048176354988058,38,50,12,3,Highest Exposure Knowledge & Management
+19-2031,Chemists,"Life, Physical & Social Science",0.5011251,0.5014491455225043,0.5591105604880475,-0.38882556475017893,244,237,-7,1,Moderate Exposure Service & Healthcare
+19-2032,Materials Scientists,"Life, Physical & Social Science",1.032757,1.0334248105705692,0.9687359240568582,-0.9041556030392719,160,154,-6,3,Highest Exposure Knowledge & Management
+19-2041,"Environmental Scientists and Specialists, Including Health","Life, Physical & Social Science",1.014113,1.014768754944193,1.1316231233595142,-1.080774841422206,166,113,-53,3,Highest Exposure Knowledge & Management
+19-2042,"Geoscientists, Except Hydrologists and Geographers","Life, Physical & Social Science",0.7143481,0.7148100202716373,0.9365113600236823,-0.6032899242338178,214,159,-55,3,Highest Exposure Knowledge & Management
+19-2043,Hydrologists,"Life, Physical & Social Science",0.6405071,0.640921273033531,0.8806588203875602,-0.5656675488070896,224,172,-52,3,Highest Exposure Knowledge & Management
+19-2099,Remote Sensing Scientists and Technologists,"Life, Physical & Social Science",1.140157,1.1408942578068284,1.2929053290757795,-1.087113063815589,136,76,-60,3,Highest Exposure Knowledge & Management
+19-3011,Economists,"Life, Physical & Social Science",1.403764,1.4046717119745058,1.5233777765292689,-1.7439850350308645,26,29,3,3,Highest Exposure Knowledge & Management
+19-3022,Survey Researchers,"Life, Physical & Social Science",1.42653,1.4274524329780505,1.7265149653289182,-1.67347990998752,20,6,-14,3,Highest Exposure Knowledge & Management
+19-3032,Industrial-Organizational Psychologists,"Life, Physical & Social Science",1.402475,1.4033818784783465,2.005276387581754,-1.8007221070882902,27,1,-26,3,Highest Exposure Knowledge & Management
+19-3039,Neuropsychologists,"Life, Physical & Social Science",1.389854,1.3907527174581522,1.4650859511509455,-1.3217063946949847,32,40,8,3,Highest Exposure Knowledge & Management
+19-3041,Sociologists,"Life, Physical & Social Science",1.411125,1.412037471761341,1.5661953058702724,-1.674716244291635,24,21,-3,3,Highest Exposure Knowledge & Management
+19-3051,Urban and Regional Planners,"Life, Physical & Social Science",1.227516,1.228309746085342,1.5879449266013432,-1.3830229295377559,112,18,-94,3,Highest Exposure Knowledge & Management
+19-3091,Anthropologists and Archeologists,"Life, Physical & Social Science",0.6965665,0.6970169222923424,1.3598637883684448,-1.1332280419800815,218,55,-163,3,Highest Exposure Knowledge & Management
+19-3092,Geographers,"Life, Physical & Social Science",1.436298,1.4372267491847894,1.3099836773694131,-1.3398134618518125,15,72,57,3,Highest Exposure Knowledge & Management
+19-3093,Historians,"Life, Physical & Social Science",1.098921,1.0996315936891898,1.0146716990539386,-1.3451522013202752,147,145,-2,2,High Exposure Analytical & Office
+19-3094,Political Scientists,"Life, Physical & Social Science",1.418863,1.4197804753247878,1.5165951780562148,-1.646103010536094,22,31,9,3,Highest Exposure Knowledge & Management
+19-3099,Transportation Planners,"Life, Physical & Social Science",1.328048,1.3289067523195657,1.5808433571047917,-1.3323678112561406,72,19,-53,3,Highest Exposure Knowledge & Management
+19-4021,Biological Technicians,"Life, Physical & Social Science",0.3012355,0.3014302924473001,0.18563439074341243,-0.2710565424215902,265,299,34,1,Moderate Exposure Service & Healthcare
+19-4031,Chemical Technicians,"Life, Physical & Social Science",0.0628057,0.0628463184188846,0.06727458907133031,0.028616845859458364,296,321,25,1,Moderate Exposure Service & Healthcare
+19-4051,Nuclear Technicians,"Life, Physical & Social Science",0.1696743,0.1697840220400474,-0.07924348638679733,0.24165574633457124,278,344,66,1,Moderate Exposure Service & Healthcare
+19-4061,Social Science Research Assistants,"Life, Physical & Social Science",1.204652,1.2054309617128112,1.0614280527953361,-1.4171309415429134,119,130,11,2,High Exposure Analytical & Office
+19-4092,Forensic Science Technicians,"Life, Physical & Social Science",0.2400518,0.2402070297017776,0.23995897463963933,0.0027956218010910285,269,289,20,1,Moderate Exposure Service & Healthcare
+19-4099,Quality Control Analysts,"Life, Physical & Social Science",0.4501044,0.4503954543995341,0.275916606437875,-0.3875384661692606,251,280,29,1,Moderate Exposure Service & Healthcare
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",Community & Social Service,0.9739287,0.9745584708792396,1.4745246897649689,-1.515455661112301,176,37,-139,3,Highest Exposure Knowledge & Management
+21-1013,Marriage and Family Therapists,Community & Social Service,1.367434,1.3683182201859276,1.3079769656447793,-1.508956422940945,42,73,31,3,Highest Exposure Knowledge & Management
+21-1015,Rehabilitation Counselors,Community & Social Service,0.5025014,0.5028263354687917,1.110065273018919,-1.1554595482111787,242,117,-125,3,Highest Exposure Knowledge & Management
+21-1021,"Child, Family, and School Social Workers",Community & Social Service,0.7761707,0.7766725961441545,1.0640354346696972,-0.8264106829046598,206,129,-77,3,Highest Exposure Knowledge & Management
+21-1022,Healthcare Social Workers,Community & Social Service,0.9339648,0.9345687293298436,1.0646097495317208,-1.0970562405016286,180,128,-52,3,Highest Exposure Knowledge & Management
+21-1023,Mental Health and Substance Abuse Social Workers,Community & Social Service,1.119216,1.1199397168890024,1.31884302439953,-1.2005710550943591,142,69,-73,3,Highest Exposure Knowledge & Management
+21-1091,Health Education Specialists,Community & Social Service,0.691658,0.6921052483467263,1.2065789058470417,-0.9079128439759683,220,98,-122,3,Highest Exposure Knowledge & Management
+21-1092,Probation Officers and Correctional Treatment Specialists,Community & Social Service,0.5272448,0.527585735103295,0.4984600866801262,-0.45689524380624125,236,248,12,1,Moderate Exposure Service & Healthcare
+21-1093,Social and Human Service Assistants,Community & Social Service,0.4652255,0.4655263320401691,0.7369719955509644,-0.7555312130868926,250,209,-41,3,Highest Exposure Knowledge & Management
+21-1094,Community Health Workers,Community & Social Service,0.0371229,0.0371469113473819,0.6714775389723235,-0.17134434127478218,302,216,-86,1,Moderate Exposure Service & Healthcare
+21-2011,Clergy,Community & Social Service,1.282559,1.283388338117236,1.2720573044748882,-1.331854572766112,96,86,-10,3,Highest Exposure Knowledge & Management
+21-2021,"Directors, Religious Activities and Education",Community & Social Service,1.210922,1.2117050160347045,1.2172695853411653,-1.0573786142579122,118,95,-23,3,Highest Exposure Knowledge & Management
+23-1011,Lawyers,Legal,1.328783,1.3296422275869646,1.7093659551383138,-1.6028403176749133,71,9,-62,3,Highest Exposure Knowledge & Management
+23-1012,Judicial Law Clerks,Legal,1.462973,1.4639189978349496,0.8947613091941164,-1.643668333690055,9,169,160,2,High Exposure Analytical & Office
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",Legal,1.374714,1.3756029275963555,1.0418255302609747,-1.5028800685823211,37,135,98,2,High Exposure Analytical & Office
+23-1022,"Arbitrators, Mediators, and Conciliators",Legal,1.431593,1.4325187068268137,0.9192706917011135,-1.4396775258043033,18,164,146,2,High Exposure Analytical & Office
+23-1023,"Judges, Magistrate Judges, and Magistrates",Legal,1.496494,1.4974616732614547,1.3067106150835595,-1.614711816215028,5,74,69,2,High Exposure Analytical & Office
+23-2011,Paralegals and Legal Assistants,Legal,1.292055,1.2928904784427062,0.8452203632829319,-1.3477293686643284,90,179,89,2,High Exposure Analytical & Office
+23-2093,"Title Examiners, Abstractors, and Searchers",Legal,1.279954,1.2807816536661143,0.7381839732522958,-1.2642638677791531,97,208,111,2,High Exposure Analytical & Office
+25-1011,"Business Teachers, Postsecondary",Education,1.349314,1.3501865033896423,1.3254624842238831,-1.537353001867141,50,67,17,2,High Exposure Analytical & Office
+25-1021,"Computer Science Teachers, Postsecondary",Education,1.277778,1.2786042466159646,1.3843804412218548,-1.3396616812312903,99,49,-50,3,Highest Exposure Knowledge & Management
+25-1022,"Mathematical Science Teachers, Postsecondary",Education,1.338676,1.3395416246214924,1.2924175491804673,-1.531469450674521,64,77,13,2,High Exposure Analytical & Office
+25-1031,"Architecture Teachers, Postsecondary",Education,1.222022,1.2228121935423624,1.4514233833665624,-1.1236990579430914,114,43,-71,3,Highest Exposure Knowledge & Management
+25-1032,"Engineering Teachers, Postsecondary",Education,1.351133,1.3520066795956271,1.45602934306649,-1.2536191967397725,49,41,-8,3,Highest Exposure Knowledge & Management
+25-1041,"Agricultural Sciences Teachers, Postsecondary",Education,0.7546685,0.7551564923418873,1.1622224380092137,-0.7821853948484981,209,107,-102,3,Highest Exposure Knowledge & Management
+25-1042,"Biological Science Teachers, Postsecondary",Education,1.227677,1.228470850191534,1.4664470937354515,-1.3275201346711105,111,39,-72,3,Highest Exposure Knowledge & Management
+25-1043,"Forestry and Conservation Science Teachers, Postsecondary",Education,1.260278,1.2610929307255123,1.2282570235123855,-0.9421401509261382,103,91,-12,3,Highest Exposure Knowledge & Management
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Education,1.306156,1.3070005964639213,1.3149928156667114,-1.3548726048935111,82,70,-12,3,Highest Exposure Knowledge & Management
+25-1052,"Chemistry Teachers, Postsecondary",Education,1.333947,1.3348095667445812,1.2462379048575374,-1.3119836647105632,68,89,21,3,Highest Exposure Knowledge & Management
+25-1053,"Environmental Science Teachers, Postsecondary",Education,1.347519,1.3483903427025934,1.3131290497736168,-1.2850479619600585,53,71,18,3,Highest Exposure Knowledge & Management
+25-1054,"Physics Teachers, Postsecondary",Education,1.044191,1.0448662040500796,1.2542373050349154,-1.1159179122807825,154,88,-66,3,Highest Exposure Knowledge & Management
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",Education,1.321694,1.3225486436813978,1.6921378924860042,-1.496058934984865,75,11,-64,3,Highest Exposure Knowledge & Management
+25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",Education,1.308699,1.3095452408244597,1.4444676833236385,-1.4879285427002638,81,44,-37,3,Highest Exposure Knowledge & Management
+25-1063,"Economics Teachers, Postsecondary",Education,1.319012,1.3198649094403585,1.2125386453386822,-1.4138881546064883,77,96,19,2,High Exposure Analytical & Office
+25-1064,"Geography Teachers, Postsecondary",Education,1.318899,1.3197518363720373,1.3472661078351733,-1.4448368511129044,78,60,-18,3,Highest Exposure Knowledge & Management
+25-1065,"Political Science Teachers, Postsecondary",Education,1.368397,1.369281842883214,1.290932769309242,-1.5777691195427201,40,78,38,2,High Exposure Analytical & Office
+25-1066,"Psychology Teachers, Postsecondary",Education,1.33366,1.334522381163978,1.5622285395285425,-1.5504972646735171,69,22,-47,3,Highest Exposure Knowledge & Management
+25-1067,"Sociology Teachers, Postsecondary",Education,1.349229,1.3501014484267462,1.3729766496349822,-1.6587609241943875,51,52,1,2,High Exposure Analytical & Office
+25-1071,"Health Specialties Teachers, Postsecondary",Education,0.924754,0.9253519734210564,1.0160065406369905,-0.9228431767815716,182,143,-39,3,Highest Exposure Knowledge & Management
+25-1072,"Nursing Instructors and Teachers, Postsecondary",Education,0.5170682,0.5174025546866794,1.1239608048695966,-0.6635484179950651,239,114,-125,3,Highest Exposure Knowledge & Management
+25-1081,"Education Teachers, Postsecondary",Education,1.192988,1.1937594195101693,1.3559757663257903,-1.4344503046817136,121,57,-64,3,Highest Exposure Knowledge & Management
+25-1082,"Library Science Teachers, Postsecondary",Education,1.386292,1.3871884141894788,1.4740325857222019,-1.4903610665301399,33,38,5,3,Highest Exposure Knowledge & Management
+25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Education,1.389999,1.3908978112183874,1.1359510688403391,-1.4657971003242445,30,111,81,2,High Exposure Analytical & Office
+25-1112,"Law Teachers, Postsecondary",Education,1.35645,1.3573271176864576,1.2895229013179776,-1.6058903768622466,47,81,34,2,High Exposure Analytical & Office
+25-1113,"Social Work Teachers, Postsecondary",Education,1.347327,1.3481982185511094,1.577037338973204,-1.5924492110661415,55,20,-35,3,Highest Exposure Knowledge & Management
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",Education,0.7582769,0.7587672256138364,1.045539830883003,-0.7421084811533389,208,132,-76,3,Highest Exposure Knowledge & Management
+25-1122,"Communications Teachers, Postsecondary",Education,1.347435,1.3483062883863193,1.2957383271685259,-1.4129138659650617,54,75,21,3,Highest Exposure Knowledge & Management
+25-1123,"English Language and Literature Teachers, Postsecondary",Education,1.417833,1.418749809303807,1.5181650515516874,-1.6118174982697808,23,30,7,3,Highest Exposure Knowledge & Management
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",Education,1.33412,1.334982678610241,1.0426493594511173,-1.536059297069599,67,133,66,2,High Exposure Analytical & Office
+25-1125,"History Teachers, Postsecondary",Education,1.43749,1.4384195199585847,1.3850505747091582,-1.6385389012950724,14,48,34,2,High Exposure Analytical & Office
+25-1126,"Philosophy and Religion Teachers, Postsecondary",Education,1.363522,1.3644036905994448,1.2901648535031298,-1.5320217080063805,45,79,34,2,High Exposure Analytical & Office
+25-1192,"Family and Consumer Sciences Teachers, Postsecondary",Education,1.211652,1.2124354880689918,1.0779338389404651,-1.2566015985521544,117,126,9,2,High Exposure Analytical & Office
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",Education,1.16489,1.1656432507164596,1.2112325501022476,-1.1560132425456324,126,97,-29,3,Highest Exposure Knowledge & Management
+25-1194,"Career/Technical Education Teachers, Postsecondary",Education,0.1622185,0.162323400953417,0.2816947747342816,-0.02383238766872954,280,279,-1,1,Moderate Exposure Service & Healthcare
+25-2011,"Preschool Teachers, Except Special Education",Education,0.0306372,0.0306570175490559,0.23173237305534214,-0.39942401443738257,304,291,-13,2,High Exposure Analytical & Office
+25-2012,"Kindergarten Teachers, Except Special Education",Education,0.3644047,0.364640339061422,0.7624420180851555,-0.7247382569159341,260,203,-57,3,Highest Exposure Knowledge & Management
+25-2021,"Elementary School Teachers, Except Special Education",Education,0.8869491,0.887522627929231,1.0741289291065002,-0.9571887662812988,189,127,-62,3,Highest Exposure Knowledge & Management
+25-2022,"Middle School Teachers, Except Special and Career/Technical Education",Education,1.286445,1.2872768508915386,1.4031935046941961,-1.2005525024919261,92,47,-45,3,Highest Exposure Knowledge & Management
+25-2023,"Career/Technical Education Teachers, Middle School",Education,0.5199191,0.5202552981422274,0.8005636296703863,-0.5220786311367309,238,192,-46,1,Moderate Exposure Service & Healthcare
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",Education,1.191325,1.192095344177265,1.337852400764424,-1.1917574396062476,122,61,-61,3,Highest Exposure Knowledge & Management
+25-2032,"Career/Technical Education Teachers, Secondary School",Education,0.3734505,0.3736919882775277,0.863425951131001,-0.13682002855603825,259,175,-84,1,Moderate Exposure Service & Healthcare
+25-2051,"Special Education Teachers, Preschool",Education,0.3750564,0.3752989266882978,0.5892096204181728,-0.5764578795173185,257,230,-27,1,Moderate Exposure Service & Healthcare
+25-2059,Adapted Physical Education Specialists,Education,-0.6632917,-0.6637205923603046,0.18814505969095066,-0.006696398290424766,429,298,-131,1,Moderate Exposure Service & Healthcare
+25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",Education,1.348951,1.3498232686657436,1.0063894005637157,-1.3332539872371598,52,148,96,2,High Exposure Analytical & Office
+25-3021,Self-Enrichment Teachers,Education,0.526352,0.5266923577988953,0.5366337658510199,-0.6889837308275262,237,242,5,2,High Exposure Analytical & Office
+25-4011,Archivists,Education,0.6765602,0.6769976857723911,0.8840725288742053,-0.7638631472194252,221,170,-51,3,Highest Exposure Knowledge & Management
+25-4012,Curators,Education,0.7366658,0.7371421513943995,0.9707719671082133,-0.6962680201189441,211,153,-58,3,Highest Exposure Knowledge & Management
+25-4013,Museum Technicians and Conservators,Education,-0.0912107,-0.0912696720216979,-0.05625286007772482,0.08032218688969357,321,339,18,1,Moderate Exposure Service & Healthcare
+25-4031,Library Technicians,Education,0.037965,0.0379895558680304,-0.14883242248555298,-0.3567401258342273,301,353,52,4,Low Exposure Routine Service
+25-9021,Farm and Home Management Educators,Education,0.8604031,0.8609594626933488,0.9631673123520664,-0.6035466812835223,193,155,-38,3,Highest Exposure Knowledge & Management
+25-9031,Instructional Coordinators,Education,1.301855,1.3026968153413594,1.6135490801993715,-1.3748205863723986,84,14,-70,3,Highest Exposure Knowledge & Management
+27-1011,Art Directors,Arts & Entertainment,1.02251,1.023171184631743,1.191691144694209,-1.0875787352846962,163,103,-60,3,Highest Exposure Knowledge & Management
+27-1012,Craft Artists,Arts & Entertainment,-0.9295284,-0.9301294469506748,-0.5505904318907495,0.3155729410841791,500,407,-93,4,Low Exposure Routine Service
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",Arts & Entertainment,-0.5690498,-0.5694177534450829,-0.6307917300929388,0.2146644906983367,409,425,16,4,Low Exposure Routine Service
+27-1014,Special Effects Artists and Animators,Arts & Entertainment,0.7058651,0.7063215349745685,0.7824901423429375,-0.7995278359939552,215,197,-18,2,High Exposure Analytical & Office
+27-1021,Commercial and Industrial Designers,Arts & Entertainment,0.867039,0.867599653614346,0.6189575063417826,-0.663312389474325,191,226,35,2,High Exposure Analytical & Office
+27-1022,Fashion Designers,Arts & Entertainment,0.5801539,0.5805290473078384,0.7556192280131339,-0.4960766396858367,232,206,-26,3,Highest Exposure Knowledge & Management
+27-1023,Floral Designers,Arts & Entertainment,-0.2718452,-0.2720209743196313,-0.34577402907617494,0.020512819682106657,352,373,21,4,Low Exposure Routine Service
+27-1024,Graphic Designers,Arts & Entertainment,0.7156958,0.7161585917245266,0.9023588591821355,-0.8753368447597462,213,167,-46,2,High Exposure Analytical & Office
+27-1025,Interior Designers,Arts & Entertainment,1.12168,1.1224053101663782,1.2862234370832841,-0.9312605144814688,141,82,-59,3,Highest Exposure Knowledge & Management
+27-1026,Merchandise Displayers and Window Trimmers,Arts & Entertainment,-1.001413,-1.0020605291368907,-0.19078394456674477,0.3160994947990612,522,359,-163,4,Low Exposure Routine Service
+27-1027,Set and Exhibit Designers,Arts & Entertainment,-0.0519323,-0.0519658737318964,0.5877423313380608,-0.40027270780876917,314,231,-83,1,Moderate Exposure Service & Healthcare
+27-2012,Producers and Directors,Arts & Entertainment,0.9388108,0.9394178628615651,0.876564327130084,-0.7198780646472784,179,173,-6,3,Highest Exposure Knowledge & Management
+27-2021,Athletes and Sports Competitors,Arts & Entertainment,-1.814336,-1.815509183286252,-0.8900902857287484,1.1681557416550565,645,483,-162,0,Low Exposure Manual & Technical
+27-2022,Coaches and Scouts,Arts & Entertainment,0.1168668,0.1169423755323309,0.7012826333283461,-0.27664139893172923,285,211,-74,1,Moderate Exposure Service & Healthcare
+27-2023,"Umpires, Referees, and Other Sports Officials",Arts & Entertainment,-0.0325617,-0.0325827482697486,-0.2935719814937437,0.052056158686640396,311,369,58,4,Low Exposure Routine Service
+27-2032,Choreographers,Arts & Entertainment,-1.575769,-1.5767879205412558,-0.3624373046052398,0.622991886563015,621,376,-245,1,Moderate Exposure Service & Healthcare
+27-2041,Music Directors and Composers,Arts & Entertainment,0.8829641,0.8835350511393194,0.3020307510230729,-0.22031462118290807,190,275,85,1,Moderate Exposure Service & Healthcare
+27-3011,Broadcast Announcers and Radio Disc Jockeys,Arts & Entertainment,0.8493547,0.849903918551402,0.8325505112636767,-0.8881227595673634,195,180,-15,2,High Exposure Analytical & Office
+27-3031,Public Relations Specialists,Arts & Entertainment,1.284927,1.2857578693188696,1.6178833056046347,-1.498655617466557,93,13,-80,3,Highest Exposure Knowledge & Management
+27-3041,Editors,Arts & Entertainment,1.128221,1.1289505397229178,1.1462862084000092,-1.2511982544107587,139,109,-30,2,High Exposure Analytical & Office
+27-3042,Technical Writers,Arts & Entertainment,1.184001,1.1847666083154555,0.826456130020454,-1.2229034443319848,123,182,59,2,High Exposure Analytical & Office
+27-3043,Writers and Authors,Arts & Entertainment,0.9879274,0.988566222750992,0.8030512508914404,-1.2694924665203073,172,191,19,2,High Exposure Analytical & Office
+27-3091,Interpreters and Translators,Arts & Entertainment,1.111319,1.1120376105126082,0.8106599534116427,-0.8882717395699615,144,188,44,2,High Exposure Analytical & Office
+27-4011,Audio and Video Technicians,Arts & Entertainment,-0.0117747,-0.0117823069317587,-0.08440166835646562,0.2522694777718748,308,345,37,1,Moderate Exposure Service & Healthcare
+27-4012,Broadcast Technicians,Arts & Entertainment,0.1222249,0.1223039401993383,-0.07396541994032321,0.3206917997807335,284,343,59,1,Moderate Exposure Service & Healthcare
+27-4014,Sound Engineering Technicians,Arts & Entertainment,0.4715462,0.4718511191458136,0.24689928736066943,-0.04284107859714504,248,286,38,1,Moderate Exposure Service & Healthcare
+27-4021,Photographers,Arts & Entertainment,-0.1680973,-0.1682059886127162,0.09830983429675373,0.2694811491975215,329,316,-13,1,Moderate Exposure Service & Healthcare
+27-4031,"Camera Operators, Television, Video, and Film",Arts & Entertainment,-0.4470009,-0.4472899339032443,-0.31693249913537386,0.6620650444733062,378,371,-7,0,Low Exposure Manual & Technical
+27-4032,Film and Video Editors,Arts & Entertainment,0.985707,0.9863443869908116,0.8167041255268075,-0.6977851193710366,174,185,11,3,Highest Exposure Knowledge & Management
+29-1011,Chiropractors,Healthcare Practitioners,-0.1911757,-0.1912993116210708,0.4627513097498838,-0.17625057194360794,338,253,-85,1,Moderate Exposure Service & Healthcare
+29-1021,"Dentists, General",Healthcare Practitioners,-0.1813301,-0.1814473452364403,0.3833852484140677,0.30772070942079455,331,266,-65,1,Moderate Exposure Service & Healthcare
+29-1031,Dietitians and Nutritionists,Healthcare Practitioners,1.342809,1.343677297111506,1.358174211630864,-1.442322487079807,60,56,-4,3,Highest Exposure Knowledge & Management
+29-1041,Optometrists,Healthcare Practitioners,0.5040194,0.5043453170414606,1.0132823813618006,-0.5356200549849729,241,146,-95,1,Moderate Exposure Service & Healthcare
+29-1051,Pharmacists,Healthcare Practitioners,0.6058705,0.6062622762351753,0.7572448058572686,-0.6494963329872699,231,204,-27,1,Moderate Exposure Service & Healthcare
+29-1071,Physician Assistants,Healthcare Practitioners,0.1059147,0.1059831936601127,0.5108625844115412,-0.15736903077042846,287,246,-41,1,Moderate Exposure Service & Healthcare
+29-1081,Podiatrists,Healthcare Practitioners,0.6279185,0.6283245329639,0.7963372293163012,-0.5516546256305913,227,193,-34,1,Moderate Exposure Service & Healthcare
+29-1122,Occupational Therapists,Healthcare Practitioners,0.1151615,0.115235972847303,0.6158791386696807,-0.38179951375551885,286,228,-58,1,Moderate Exposure Service & Healthcare
+29-1123,Physical Therapists,Healthcare Practitioners,-0.3581922,-0.3584238082163656,0.4267369624112043,-0.06765198163422456,363,261,-102,1,Moderate Exposure Service & Healthcare
+29-1124,Radiation Therapists,Healthcare Practitioners,-0.2189393,-0.2190808641842794,-0.06593450620289344,0.48893259634008385,343,341,-2,1,Moderate Exposure Service & Healthcare
+29-1125,Recreational Therapists,Healthcare Practitioners,0.2190109,0.2191525241863828,0.2700026688499227,-0.04011228437777362,273,282,9,1,Moderate Exposure Service & Healthcare
+29-1126,Respiratory Therapists,Healthcare Practitioners,-0.1880507,-0.1881722909263472,-0.013412060471942691,0.3244553747373928,336,335,-1,1,Moderate Exposure Service & Healthcare
+29-1127,Speech-Language Pathologists,Healthcare Practitioners,1.146267,1.1470082086691518,1.3602277807597416,-1.2854917295254327,132,54,-78,3,Highest Exposure Knowledge & Management
+29-1128,Exercise Physiologists,Healthcare Practitioners,-0.0331901,-0.0332115546072092,0.5134573513848026,-0.33194036118421405,312,244,-68,1,Moderate Exposure Service & Healthcare
+29-1131,Veterinarians,Healthcare Practitioners,-0.0749958,-0.0750442871055786,0.462875554166759,-0.26018240201913095,317,252,-65,1,Moderate Exposure Service & Healthcare
+29-1141,Registered Nurses,Healthcare Practitioners,0.2294097,0.229558048282476,0.8175240053571943,-0.3577352854242672,270,184,-86,1,Moderate Exposure Service & Healthcare
+29-1151,Nurse Anesthetists,Healthcare Practitioners,0.2413191,0.241475149166233,0.6672113988255605,0.04173091272042122,268,218,-50,1,Moderate Exposure Service & Healthcare
+29-1161,Nurse Midwives,Healthcare Practitioners,0.1966265,0.1967536499339124,0.9192737167362958,-0.41258133258621027,275,163,-112,1,Moderate Exposure Service & Healthcare
+29-1171,Nurse Practitioners,Healthcare Practitioners,0.1900572,0.1901801020779612,0.9085632953244017,-0.4606640953182288,276,166,-110,1,Moderate Exposure Service & Healthcare
+29-1181,Audiologists,Healthcare Practitioners,0.6329063,0.6333155581866655,0.9859294279931466,-0.5018752040213795,225,151,-74,1,Moderate Exposure Service & Healthcare
+29-2031,Cardiovascular Technologists and Technicians,Healthcare Practitioners,-0.0909526,-0.0910114051284793,0.003459040155513991,0.06872161713978794,320,332,12,1,Moderate Exposure Service & Healthcare
+29-2032,Diagnostic Medical Sonographers,Healthcare Practitioners,-0.264054,-0.2642247363558777,0.0069407976417905455,0.17033675818678667,350,331,-19,1,Moderate Exposure Service & Healthcare
+29-2033,Nuclear Medicine Technologists,Healthcare Practitioners,0.0855276,0.0855829109063851,0.27311425573896964,-0.12817283140634375,290,281,-9,1,Moderate Exposure Service & Healthcare
+29-2034,Radiologic Technologists and Technicians,Healthcare Practitioners,-0.5559037,-0.5562631528835131,-0.41556404027906263,0.45963962834893274,406,385,-21,1,Moderate Exposure Service & Healthcare
+29-2035,Magnetic Resonance Imaging Technologists,Healthcare Practitioners,-0.0727627,-0.0728097431332947,0.05548286516365349,0.1694955174788071,316,324,8,1,Moderate Exposure Service & Healthcare
+29-2051,Dietetic Technicians,Healthcare Practitioners,-0.1260282,-0.1261096857940299,0.19560089727507413,0.11510707887642238,325,294,-31,1,Moderate Exposure Service & Healthcare
+29-2052,Pharmacy Technicians,Healthcare Practitioners,0.0070256,0.0070301497616848,0.3345080779402293,-0.27732799815931614,306,271,-35,1,Moderate Exposure Service & Healthcare
+29-2053,Psychiatric Technicians,Healthcare Practitioners,-0.2203484,-0.2204908753397786,0.11682071416976761,-0.21312713676295894,344,312,-32,1,Moderate Exposure Service & Healthcare
+29-2055,Surgical Technologists,Healthcare Practitioners,-0.4830476,-0.4833599425037216,-0.23683055193485664,0.5123603138521451,387,362,-25,1,Moderate Exposure Service & Healthcare
+29-2056,Veterinary Technologists and Technicians,Healthcare Practitioners,-0.3623179,-0.3625521759860364,0.05707387966843692,0.2835144042379511,365,323,-42,1,Moderate Exposure Service & Healthcare
+29-2057,Ophthalmic Medical Technicians,Healthcare Practitioners,0.078734,0.0787849180130495,0.31356270485031046,-0.46009061638110754,292,273,-19,2,High Exposure Analytical & Office
+29-2061,Licensed Practical and Licensed Vocational Nurses,Healthcare Practitioners,-0.5137373,-0.5140694871484759,0.18556212393807692,0.13700202332910774,394,300,-94,1,Moderate Exposure Service & Healthcare
+29-2081,"Opticians, Dispensing",Healthcare Practitioners,0.1013966,0.1014621721558469,0.7043761327203875,-0.2738559486463949,288,210,-78,1,Moderate Exposure Service & Healthcare
+29-2091,Orthotists and Prosthetists,Healthcare Practitioners,0.066577,0.0666200570256081,0.35275872299503375,0.0317814981034666,295,270,-25,1,Moderate Exposure Service & Healthcare
+29-2092,Hearing Aid Specialists,Healthcare Practitioners,0.5648953,0.5652605807566355,0.4308224416243195,-0.39872739168785154,234,258,24,1,Moderate Exposure Service & Healthcare
+29-9091,Athletic Trainers,Healthcare Practitioners,-0.3311363,-0.3313504132677669,0.0662881001621433,0.0037924149349617487,359,322,-37,1,Moderate Exposure Service & Healthcare
+29-9092,Genetic Counselors,Healthcare Practitioners,1.527667,1.5286548304187724,1.4814731555869378,-1.6926840512107684,1,35,34,2,High Exposure Analytical & Office
+31-2011,Occupational Therapy Assistants,Healthcare Support,-0.3153762,-0.3155801224354749,0.2400080157500512,0.006034566999553518,358,288,-70,1,Moderate Exposure Service & Healthcare
+31-2012,Occupational Therapy Aides,Healthcare Support,-0.7734322,-0.7739323116650084,-0.03531351900217134,0.20755898286902533,457,337,-120,1,Moderate Exposure Service & Healthcare
+31-2021,Physical Therapist Assistants,Healthcare Support,-0.5308535,-0.5311967548652847,0.13124613403320678,0.12897395679499057,401,311,-90,1,Moderate Exposure Service & Healthcare
+31-2022,Physical Therapist Aides,Healthcare Support,-0.8823265,-0.8828970251489877,-0.2170024386672032,0.1424128752728115,487,360,-127,1,Moderate Exposure Service & Healthcare
+31-9011,Massage Therapists,Healthcare Support,-1.410233,-1.4111448812702934,-0.5283587322259753,0.16049985561710625,606,402,-204,4,Low Exposure Routine Service
+31-9091,Dental Assistants,Healthcare Support,-0.5268759,-0.5272165828603783,0.07814673757528046,0.16255935283624176,399,320,-79,1,Moderate Exposure Service & Healthcare
+31-9092,Medical Assistants,Healthcare Support,0.1497917,0.149888565507276,0.5511354451924636,-0.16563026111348217,281,241,-40,1,Moderate Exposure Service & Healthcare
+31-9093,Medical Equipment Preparers,Healthcare Support,-0.7308648,-0.7313373866344243,-0.5395185012777169,0.7403886678747008,445,404,-41,0,Low Exposure Manual & Technical
+31-9094,Medical Transcriptionists,Healthcare Support,1.06259,1.0632771012539892,0.4686589773675024,-1.1066732171231055,150,251,101,2,High Exposure Analytical & Office
+31-9095,Pharmacy Aides,Healthcare Support,-0.1552654,-0.1553657912198768,0.1341860826930737,-0.07443064109177289,327,309,-18,1,Moderate Exposure Service & Healthcare
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,Healthcare Support,-0.7735824,-0.7740826087876796,-0.2520421738529748,0.3026606704691158,458,364,-94,1,Moderate Exposure Service & Healthcare
+31-9097,Phlebotomists,Healthcare Support,-0.2778475,-0.2780271555407319,0.19343429538468898,0.03167679673113136,354,296,-58,1,Moderate Exposure Service & Healthcare
+31-9099,Speech-Language Pathology Assistants,Healthcare Support,0.1660077,0.1661150511346799,0.2858880720658144,-0.2696114020123333,279,278,-1,1,Moderate Exposure Service & Healthcare
+33-1011,First-Line Supervisors of Correctional Officers,Protective Service,-0.5584278,-0.5587888850228897,0.020336701788507626,0.5042574913996123,408,328,-80,1,Moderate Exposure Service & Healthcare
+33-1012,First-Line Supervisors of Police and Detectives,Protective Service,-0.1923298,-0.1924541578878805,0.29155669465094564,0.3441556342173116,339,277,-62,1,Moderate Exposure Service & Healthcare
+33-1021,First-Line Supervisors of Firefighting and Prevention Workers,Protective Service,-0.593021,-0.5934044537578372,-0.1550141773828739,1.0806606805521066,414,354,-60,1,Moderate Exposure Service & Healthcare
+33-2011,Firefighters,Protective Service,-1.320232,-1.3210856846156327,-1.0353124971962488,1.7106291719899773,595,525,-70,0,Low Exposure Manual & Technical
+33-2021,Fire Inspectors and Investigators,Protective Service,0.062793,0.0628336102067813,0.19431842294443133,0.2046860104448139,297,295,-2,1,Moderate Exposure Service & Healthcare
+33-2022,Forest Fire Inspectors and Prevention Specialists,Protective Service,-0.2144127,-0.214551337183724,-0.09986874027445687,0.5494357558054794,342,348,6,1,Moderate Exposure Service & Healthcare
+33-3011,Bailiffs,Protective Service,-0.5103183,-0.5106482763467928,-0.13255204144694963,0.18816997330903126,392,351,-41,1,Moderate Exposure Service & Healthcare
+33-3012,Correctional Officers and Jailers,Protective Service,-0.8875365,-0.8881103940512307,-0.4282742668156838,0.8580820710914673,491,386,-105,1,Moderate Exposure Service & Healthcare
+33-3021,Detectives and Criminal Investigators,Protective Service,0.2257696,0.2259155945125998,0.6515959179641544,-0.425739200097953,272,221,-51,1,Moderate Exposure Service & Healthcare
+33-3031,Fish and Game Wardens,Protective Service,-0.4585168,-0.4588132803411217,-0.09434078282597866,0.5426597856538191,380,346,-34,1,Moderate Exposure Service & Healthcare
+33-3041,Parking Enforcement Workers,Protective Service,-0.6239931,-0.6243965810087323,-0.4945669732307024,0.6551391439093419,422,399,-23,0,Low Exposure Manual & Technical
+33-3051,Police and Sheriff's Patrol Officers,Protective Service,-0.6681123,-0.6685443094678195,0.010264636108122038,0.5105391584227675,430,330,-100,1,Moderate Exposure Service & Healthcare
+33-3052,Transit and Railroad Police,Protective Service,-0.8205515,-0.8210820800556924,-0.27594182916682025,0.8407421138556929,467,366,-101,1,Moderate Exposure Service & Healthcare
+33-9011,Animal Control Workers,Protective Service,-0.5946321,-0.5950165955310434,-0.09910775239058338,0.31784389535638935,416,347,-69,1,Moderate Exposure Service & Healthcare
+33-9021,Private Detectives and Investigators,Protective Service,0.7483108,0.7487946813112174,0.5831811669404149,-0.5366676353215675,210,232,22,1,Moderate Exposure Service & Healthcare
+33-9031,Gambling Surveillance Officers and Gambling Investigators,Protective Service,0.7283933,0.7288643022113273,0.4368216988034993,-0.3766788892133963,212,256,44,1,Moderate Exposure Service & Healthcare
+33-9032,Security Guards,Protective Service,-0.3908421,-0.3910948203701751,-0.02979870526782316,0.5196895763697373,373,336,-37,1,Moderate Exposure Service & Healthcare
+33-9091,Crossing Guards and Flaggers,Protective Service,-0.5699511,-0.5703196362457723,-0.987735912968929,0.2723808391030113,410,514,104,4,Low Exposure Routine Service
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Protective Service,-0.4718385,-0.4721435944495693,-0.665143352155093,0.5846232679934962,384,431,47,0,Low Exposure Manual & Technical
+33-9093,Transportation Security Screeners,Protective Service,-0.5068558,-0.507183537417039,-0.6024915754236482,0.5929248915182237,391,417,26,0,Low Exposure Manual & Technical
+35-1011,Chefs and Head Cooks,Food Preparation,-0.2676433,-0.2678163572773405,-0.0008568999840595281,0.41742918031924264,351,333,-18,1,Moderate Exposure Service & Healthcare
+35-1012,First-Line Supervisors of Food Preparation and Serving Workers,Food Preparation,-0.2575492,-0.2577157302070655,0.1453584050588114,0.12829834613644522,348,306,-42,1,Moderate Exposure Service & Healthcare
+35-2011,"Cooks, Fast Food",Food Preparation,-0.7131837,-0.7136448536406718,-0.7771968671713666,0.007149757861686757,437,456,19,4,Low Exposure Routine Service
+35-2012,"Cooks, Institution and Cafeteria",Food Preparation,-0.6360813,-0.6364925975085587,-0.45165133108983524,0.3329540208078089,425,391,-34,4,Low Exposure Routine Service
+35-2013,"Cooks, Private Household",Food Preparation,-0.7867444,-0.7872531196305441,-0.5469550728576185,0.26189746405866954,461,406,-55,4,Low Exposure Routine Service
+35-2014,"Cooks, Restaurant",Food Preparation,-0.7418264,-0.7423060746495544,-1.3732261836812492,0.5588967599259207,447,609,162,4,Low Exposure Routine Service
+35-2015,"Cooks, Short Order",Food Preparation,-0.5933817,-0.593765386994505,-0.8966540223775465,0.36619553532750493,415,484,69,4,Low Exposure Routine Service
+35-2021,Food Preparation Workers,Food Preparation,-1.226416,-1.2272090210968534,-0.9112799920860724,0.2695855459434986,583,489,-94,4,Low Exposure Routine Service
+35-3011,Bartenders,Food Preparation,-0.6159883,-0.616386604926453,-0.21883003318239705,0.27778753933595113,421,361,-60,1,Moderate Exposure Service & Healthcare
+35-3031,Waiters and Waitresses,Food Preparation,-0.9481003,-0.9487133559555824,-0.6427242311645974,0.2142824730041109,504,426,-78,4,Low Exposure Routine Service
+35-3041,"Food Servers, Nonrestaurant",Food Preparation,-0.7270206,-0.7274907008889343,-0.48223456572712087,0.1657629871772048,441,397,-44,4,Low Exposure Routine Service
+35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,Food Preparation,-1.927078,-1.9283240847789,-0.8700632678895962,0.4859921291134937,650,477,-173,4,Low Exposure Routine Service
+35-9021,Dishwashers,Food Preparation,-1.738612,-1.7397362184583336,-1.4782255201285714,0.7130327336672404,634,628,-6,4,Low Exposure Routine Service
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Food Preparation,-0.0565477,-0.0565842581525131,-0.338431400140541,-0.15636131447168367,315,372,57,4,Low Exposure Routine Service
+37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,Building & Grounds,-0.5854128,-0.5857913341259665,0.09029123920465855,0.2700545516395611,412,318,-94,1,Moderate Exposure Service & Healthcare
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Building & Grounds,-0.5548871,-0.5552458955272712,-0.2970161808620293,0.8762907069376851,405,370,-35,1,Moderate Exposure Service & Healthcare
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Building & Grounds,-1.436201,-1.4371296727584792,-0.808009920010384,0.5740374840941543,611,462,-149,4,Low Exposure Routine Service
+37-2012,Maids and Housekeeping Cleaners,Building & Grounds,-1.480657,-1.4816144189999607,-1.0843732743718966,0.4041402227532169,613,537,-76,4,Low Exposure Routine Service
+37-2021,Pest Control Workers,Building & Grounds,-0.7255374,-0.7260065418187218,-0.5032021286302473,0.7840994233742115,440,400,-40,0,Low Exposure Manual & Technical
+37-3011,Landscaping and Groundskeeping Workers,Building & Grounds,-1.824293,-1.825472621704608,-1.647854824935389,1.2111518118257836,646,644,-2,4,Low Exposure Routine Service
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",Building & Grounds,-0.8847935,-0.8853656203662302,-0.7422863733295807,0.850252384848045,488,451,-37,0,Low Exposure Manual & Technical
+37-3013,Tree Trimmers and Pruners,Building & Grounds,-1.727035,-1.728151732511833,-1.759443339332515,1.794345814171586,632,651,19,0,Low Exposure Manual & Technical
+39-2011,Animal Trainers,Personal Care,-0.9167759,-0.9173687008996468,-0.44275801943472426,0.6077056562365861,497,388,-109,0,Low Exposure Manual & Technical
+39-2021,Animal Caretakers,Personal Care,-0.8890408,-0.889615666765174,-0.41402744863719987,0.15049941393717792,492,384,-108,4,Low Exposure Routine Service
+39-3011,Gambling Dealers,Personal Care,0.0605832,0.0606223813007972,-0.5588896638338864,-0.17204309042034036,298,408,110,4,Low Exposure Routine Service
+39-3012,Gambling and Sports Book Writers and Runners,Personal Care,0.4652752,0.4655760641772979,-0.06369027795828316,-0.4043242360533768,249,340,91,4,Low Exposure Routine Service
+39-3021,Motion Picture Projectionists,Personal Care,-0.3786598,-0.3789046430231892,-0.9765073090148222,0.5008356873596842,368,505,137,4,Low Exposure Routine Service
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",Personal Care,-0.2420959,-0.2422524377584987,-0.562368795797394,-0.03844860220707385,345,409,64,4,Low Exposure Routine Service
+39-3091,Amusement and Recreation Attendants,Personal Care,-0.5246153,-0.5249545211059808,-0.35877001153409904,-0.061866998717462256,397,375,-22,4,Low Exposure Routine Service
+39-3092,Costume Attendants,Personal Care,-0.4533608,-0.4536539463564834,-0.28966423468745034,0.08562310265448936,379,368,-11,4,Low Exposure Routine Service
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",Personal Care,-0.3454376,-0.3456609608074309,-0.6246722077615746,-0.35749518533280655,360,422,62,4,Low Exposure Routine Service
+39-4011,Embalmers,Personal Care,-0.7311451,-0.7316178678826581,-0.4504103643810628,0.4905827221306262,446,390,-56,0,Low Exposure Manual & Technical
+39-4021,Funeral Attendants,Personal Care,-0.5445412,-0.5448933056374983,-0.6530216732491642,0.15250565445898107,403,428,25,4,Low Exposure Routine Service
+39-4031,"Morticians, Undertakers, and Funeral Arrangers",Personal Care,-0.1903759,-0.190498994452546,0.1391411967553968,0.18867172754686423,337,307,-30,1,Moderate Exposure Service & Healthcare
+39-5011,Barbers,Personal Care,-0.7294621,-0.7299337796173079,-0.8102326818376165,0.28481954723235076,444,463,19,4,Low Exposure Routine Service
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",Personal Care,-0.6824517,-0.6828929816437936,0.041529743962004595,0.08128874026696235,432,327,-105,1,Moderate Exposure Service & Healthcare
+39-5091,"Makeup Artists, Theatrical and Performance",Personal Care,-0.4596138,-0.4599109896857974,0.13594786106021514,0.12351704805951254,381,308,-73,1,Moderate Exposure Service & Healthcare
+39-5092,Manicurists and Pedicurists,Personal Care,0.0335124,0.0335340767175261,-0.7114298899009297,-0.20421183970500023,303,438,135,4,Low Exposure Routine Service
+39-5093,Shampooers,Personal Care,-0.905371,-0.905956426236846,-0.4787646700430202,-0.05172116462946816,495,396,-99,4,Low Exposure Routine Service
+39-5094,Skincare Specialists,Personal Care,-0.2628396,-0.2630095510977426,0.2604463975161912,-0.08610379398159285,349,285,-64,1,Moderate Exposure Service & Healthcare
+39-6011,Baggage Porters and Bellhops,Personal Care,-1.272015,-1.2728375064276372,-0.7341229808616909,0.8031245718950775,589,445,-144,0,Low Exposure Manual & Technical
+39-6012,Concierges,Personal Care,0.855832,0.8563854069181006,0.8565153663230116,-0.9681531501516333,194,178,-16,2,High Exposure Analytical & Office
+39-9011,Childcare Workers,Personal Care,-0.3834794,-0.383727359484082,-0.24888218583832544,0.08634575281009256,371,363,-8,4,Low Exposure Routine Service
+39-9031,Exercise Trainers and Group Fitness Instructors,Personal Care,-2.111948,-2.1133136258456338,-0.7399412067324019,0.5980913677186293,655,450,-205,4,Low Exposure Routine Service
+39-9032,Recreation Workers,Personal Care,-0.2441154,-0.2442732436122569,0.5159329975390399,-0.15849032616830852,346,243,-103,1,Moderate Exposure Service & Healthcare
+39-9041,Residential Advisors,Personal Care,0.4746119,0.474918801495834,0.40953957735133145,-0.3406822911484804,246,262,16,1,Moderate Exposure Service & Healthcare
+41-1011,First-Line Supervisors of Retail Sales Workers,Sales,0.0191826,0.0191950107491262,0.3851103754363844,-0.34908409791493683,305,265,-40,1,Moderate Exposure Service & Healthcare
+41-1012,First-Line Supervisors of Non-Retail Sales Workers,Sales,1.316195,1.3170460879053068,1.2747234015381483,-1.0926630150071832,79,85,6,3,Highest Exposure Knowledge & Management
+41-2011,Cashiers,Sales,-0.2480887,-0.2482491128366873,-0.48994833478040734,-0.23411031106320435,347,398,51,4,Low Exposure Routine Service
+41-2012,Gambling Change Persons and Booth Cashiers,Sales,-0.0500926,-0.0501249841408299,-0.1439436240911255,0.021603444757900575,313,352,39,1,Moderate Exposure Service & Healthcare
+41-2021,Counter and Rental Clerks,Sales,0.0784367,0.0784874257722363,-0.11171739830382403,-0.035263904848023477,293,350,57,4,Low Exposure Routine Service
+41-2022,Parts Salespersons,Sales,-0.1184909,-0.1185675120076811,0.2965231849748666,0.01609898223272598,322,276,-46,1,Moderate Exposure Service & Healthcare
+41-2031,Retail Salespersons,Sales,0.0873069,0.0873633614414641,0.15658368688399724,-0.3754930701500136,289,305,16,2,High Exposure Analytical & Office
+41-3011,Advertising Sales Agents,Sales,1.162588,1.1633397621918984,0.9984112692687852,-1.0828119755386796,127,149,22,2,High Exposure Analytical & Office
+41-3021,Insurance Sales Agents,Sales,1.341258,1.342125294200301,0.8108269578368726,-1.306841221431165,62,187,125,2,High Exposure Analytical & Office
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",Sales,1.256298,1.2571103571687126,1.1140619328464911,-1.3976392014599777,106,115,9,2,High Exposure Analytical & Office
+41-3041,Travel Agents,Sales,1.133598,1.1343310166110872,0.930409883114716,-1.2062213186988502,138,162,24,2,High Exposure Analytical & Office
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Sales,0.8911985,0.8917747756860815,0.776513944308663,-1.0998454792510788,187,199,12,2,High Exposure Analytical & Office
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",Sales,0.8224681,0.8229999330759608,0.4937183893970592,-0.6166989442256567,202,249,47,2,High Exposure Analytical & Office
+41-9011,Demonstrators and Product Promoters,Sales,0.1235652,0.1236451068672225,0.046355831472323326,-0.17620573539763804,283,326,43,4,Low Exposure Routine Service
+41-9012,Models,Sales,-1.122021,-1.1227465169606403,-1.1771036240373853,-0.09711365423903634,555,564,9,4,Low Exposure Routine Service
+41-9021,Real Estate Brokers,Sales,1.149681,1.1504244162377235,0.9188152622351312,-1.238566507583135,131,165,34,2,High Exposure Analytical & Office
+41-9022,Real Estate Sales Agents,Sales,0.8649445,0.8655037992639144,0.8052788774371219,-0.6325338723939149,192,189,-3,3,Highest Exposure Knowledge & Management
+41-9031,Sales Engineers,Sales,1.145416,1.1461566583935647,1.23511522184366,-1.278296615123338,133,90,-43,3,Highest Exposure Knowledge & Management
+41-9041,Telemarketers,Sales,1.118129,1.1188520140105498,0.6918664196487597,-1.1648764162025163,143,212,69,2,High Exposure Analytical & Office
+41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Sales,1.107101,1.1078168830596982,0.6249458135308164,-1.1162286575981608,145,224,79,2,High Exposure Analytical & Office
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,Office & Admin Support,1.038688,1.0393596456874992,1.039258131742788,-0.894947465077675,157,136,-21,3,Highest Exposure Knowledge & Management
+43-2011,"Switchboard Operators, Including Answering Service",Office & Admin Support,0.9832644,0.9839002075511534,0.20195842777035325,-1.002867801705521,175,293,118,2,High Exposure Analytical & Office
+43-2021,Telephone Operators,Office & Admin Support,1.019712,1.0203713753825152,0.31373963910714553,-0.9243264143754495,164,272,108,2,High Exposure Analytical & Office
+43-3011,Bill and Account Collectors,Office & Admin Support,1.271991,1.2728135046126476,0.5658274665552976,-1.1635056899693386,101,234,133,2,High Exposure Analytical & Office
+43-3021,Billing and Posting Clerks,Office & Admin Support,1.333455,1.334317248606404,0.5669522961300213,-1.236950001026488,70,233,163,2,High Exposure Analytical & Office
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",Office & Admin Support,1.039749,1.0404213317537716,0.6695977982943965,-1.2263647515862708,156,217,61,2,High Exposure Analytical & Office
+43-3041,Gambling Cage Workers,Office & Admin Support,0.4026518,0.4029121704896336,0.17478878356856842,-0.49384313300092203,253,302,49,2,High Exposure Analytical & Office
+43-3051,Payroll and Timekeeping Clerks,Office & Admin Support,1.257632,1.2584452197628764,0.607440064246218,-1.251964563302259,105,229,124,2,High Exposure Analytical & Office
+43-3061,Procurement Clerks,Office & Admin Support,1.487838,1.488800076098726,0.7889353683726333,-1.1627522595701498,6,195,189,2,High Exposure Analytical & Office
+43-3071,Tellers,Office & Admin Support,0.4727723,0.4730780119694298,0.43959769554058403,-0.49301713280243653,247,255,8,1,Moderate Exposure Service & Healthcare
+43-4011,Brokerage Clerks,Office & Admin Support,1.144877,1.145617309864139,0.6661394945959046,-1.3120949518589402,134,219,85,2,High Exposure Analytical & Office
+43-4021,Correspondence Clerks,Office & Admin Support,1.149758,1.1505014660276416,0.7853211554950094,-1.3110297719185848,130,196,66,2,High Exposure Analytical & Office
+43-4031,"Court, Municipal, and License Clerks",Office & Admin Support,1.166267,1.1670211411153826,0.6225370678247538,-1.0557501119149124,125,225,100,2,High Exposure Analytical & Office
+43-4041,"Credit Authorizers, Checkers, and Clerks",Office & Admin Support,1.440296,1.4412273343807909,0.8838316708959518,-1.2870829079470651,13,171,158,2,High Exposure Analytical & Office
+43-4051,Customer Service Representatives,Office & Admin Support,0.9562519,0.9568702406659628,1.0182369364543349,-1.0732675895872021,177,142,-35,2,High Exposure Analytical & Office
+43-4061,"Eligibility Interviewers, Government Programs",Office & Admin Support,1.226286,1.2270789507398987,0.9974949665570003,-1.4999099594487042,113,150,37,2,High Exposure Analytical & Office
+43-4071,File Clerks,Office & Admin Support,0.2839743,0.2841579309702561,0.6858643320218051,-0.6338607158188192,267,214,-53,1,Moderate Exposure Service & Healthcare
+43-4081,"Hotel, Motel, and Resort Desk Clerks",Office & Admin Support,0.6063127,0.6067047621715614,0.558799477533065,-0.7583973122242709,230,238,8,2,High Exposure Analytical & Office
+43-4111,"Interviewers, Except Eligibility and Loan",Office & Admin Support,1.297031,1.2978696960353286,1.1008267909627931,-1.1611765385472952,87,121,34,3,Highest Exposure Knowledge & Management
+43-4121,"Library Assistants, Clerical",Office & Admin Support,0.2038919,0.2040237479036546,0.09468325954454324,-0.44452286872317476,274,317,43,2,High Exposure Analytical & Office
+43-4131,Loan Interviewers and Clerks,Office & Admin Support,1.364395,1.3652772551007228,1.0419436943424834,-1.314666630046141,44,134,90,2,High Exposure Analytical & Office
+43-4141,New Accounts Clerks,Office & Admin Support,1.174998,1.1757577867747846,0.6463309646077481,-1.075524504102628,124,222,98,2,High Exposure Analytical & Office
+43-4151,Order Clerks,Office & Admin Support,0.8388861,0.8394285493210715,0.9459364202036129,-0.9417894235627836,197,156,-41,2,High Exposure Analytical & Office
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",Office & Admin Support,1.353098,1.3539729502084694,1.0932185254065798,-1.3364270578930566,48,122,74,2,High Exposure Analytical & Office
+43-4171,Receptionists and Information Clerks,Office & Admin Support,1.013186,1.0138411555253102,0.5639674573327246,-1.027431230411782,167,236,69,2,High Exposure Analytical & Office
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,Office & Admin Support,0.227312,0.2274589918628531,0.43127739624307027,-0.4190237187277225,271,257,-14,1,Moderate Exposure Service & Healthcare
+43-5011,Cargo and Freight Agents,Office & Admin Support,1.405415,1.4063237795479422,0.24666564792060694,-0.23353389811786238,25,287,262,1,Moderate Exposure Service & Healthcare
+43-5021,Couriers and Messengers,Office & Admin Support,-0.9591126,-0.9597327767544636,-1.3579566076665637,0.7514677587620362,508,607,99,4,Low Exposure Routine Service
+43-5031,Public Safety Telecommunicators,Office & Admin Support,0.9074452,0.9080319811647904,0.8142558326296723,-0.5766924702791165,185,186,1,1,Moderate Exposure Service & Healthcare
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",Office & Admin Support,1.234523,1.235321276967879,0.825546888358067,-0.9474889840868983,110,183,73,2,High Exposure Analytical & Office
+43-5041,"Meter Readers, Utilities",Office & Admin Support,-0.9723772,-0.9730059539407772,-0.9269525181351462,0.7596456774579642,516,493,-23,0,Low Exposure Manual & Technical
+43-5051,Postal Service Clerks,Office & Admin Support,-0.5186997,-0.5190350959470347,-0.10579564867567331,-0.03838467853984394,396,349,-47,4,Low Exposure Routine Service
+43-5052,Postal Service Mail Carriers,Office & Admin Support,-1.064715,-1.0654034616224557,-1.4438000031182783,0.6525152247050295,540,623,83,4,Low Exposure Routine Service
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",Office & Admin Support,-1.185001,-1.185767241233821,-1.0453188248907082,0.41809568491299226,572,529,-43,4,Low Exposure Routine Service
+43-5061,"Production, Planning, and Expediting Clerks",Office & Admin Support,0.6999103,0.7003628844680277,0.26196859259417465,-0.6320460523150926,216,284,68,2,High Exposure Analytical & Office
+43-5071,"Shipping, Receiving, and Inventory Clerks",Office & Admin Support,-0.7463213,-0.7468038811521825,-0.5721547615594397,0.5026536369104485,450,411,-39,0,Low Exposure Manual & Technical
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Office & Admin Support,-0.1860789,-0.1861992159164733,-0.0729761053180382,0.2839279259120933,335,342,7,1,Moderate Exposure Service & Healthcare
+43-6011,Executive Secretaries and Executive Administrative Assistants,Office & Admin Support,1.079643,1.080341128104268,1.007219479988866,-1.1083567551667697,148,147,-1,2,High Exposure Analytical & Office
+43-6012,Legal Secretaries and Administrative Assistants,Office & Admin Support,1.014541,1.0151970316985424,0.7734294463025627,-1.094351593838476,165,200,35,2,High Exposure Analytical & Office
+43-6013,Medical Secretaries and Administrative Assistants,Office & Admin Support,1.217982,1.2187695811882238,0.804346424672743,-1.1082439061626645,115,190,75,2,High Exposure Analytical & Office
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Office & Admin Support,1.099056,1.0997666809832018,0.5643882603394715,-1.1387669220327195,146,235,89,2,High Exposure Analytical & Office
+43-9021,Data Entry Keyers,Office & Admin Support,0.3108081,0.3110090823040394,0.26978210371597333,-0.5403776723892123,264,283,19,2,High Exposure Analytical & Office
+43-9022,Word Processors and Typists,Office & Admin Support,0.6219606,0.6223627804528301,0.19186910462297907,-0.7795156830221192,228,297,69,2,High Exposure Analytical & Office
+43-9031,Desktop Publishers,Office & Admin Support,0.3437743,0.3439965989844861,0.48093841248727337,-0.43870687726666635,262,250,-12,1,Moderate Exposure Service & Healthcare
+43-9041,Insurance Claims and Policy Processing Clerks,Office & Admin Support,1.240201,1.241002948489364,0.5066133303570967,-1.1041506492041981,109,247,138,2,High Exposure Analytical & Office
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",Office & Admin Support,-0.8184676,-0.8189968325594574,-0.9172484274415567,0.4727640699394462,465,490,25,4,Low Exposure Routine Service
+43-9061,"Office Clerks, General",Office & Admin Support,0.9888986,0.989538050750581,0.35665921377796767,-0.9547371963864796,171,269,98,2,High Exposure Analytical & Office
+43-9071,"Office Machine Operators, Except Computer",Office & Admin Support,-0.5171404,-0.5174747876688643,-0.5385171842997346,0.24405613444458804,395,403,8,4,Low Exposure Routine Service
+43-9081,Proofreaders and Copy Markers,Office & Admin Support,1.288375,1.2892080988725998,0.171197560440762,-1.265550080022564,91,304,213,2,High Exposure Analytical & Office
+43-9111,Statistical Assistants,Office & Admin Support,1.389965,1.3908637892332287,1.3267087093472487,-1.5346032886533474,31,65,34,2,High Exposure Analytical & Office
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",Farming & Fishing,-0.4791843,-0.4794941444077454,-0.6247714183108415,0.8800612005285052,386,423,37,0,Low Exposure Manual & Technical
+45-2011,Agricultural Inspectors,Farming & Fishing,0.1704867,0.1705969473560133,0.051141128106693835,0.06539226433719057,277,325,48,1,Moderate Exposure Service & Healthcare
+45-2021,Animal Breeders,Farming & Fishing,-1.044292,-1.044967255654987,-0.9481966167160247,0.4920148174230361,536,501,-35,4,Low Exposure Routine Service
+45-2041,"Graders and Sorters, Agricultural Products",Farming & Fishing,-1.370968,-1.3718544916452309,-0.8737050039277154,0.26660677996268534,599,478,-121,4,Low Exposure Routine Service
+45-2091,Agricultural Equipment Operators,Farming & Fishing,-1.145156,-1.145896476567818,-1.385018150452182,1.3639449607827292,559,614,55,0,Low Exposure Manual & Technical
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Farming & Fishing,-1.601349,-1.602384461139985,-1.5832102937774928,1.620303963489266,623,638,15,0,Low Exposure Manual & Technical
+45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Farming & Fishing,-1.108432,-1.109148730010049,-1.0939843275802885,1.0811737155924912,552,543,-9,0,Low Exposure Manual & Technical
+45-4011,Forest and Conservation Workers,Farming & Fishing,-1.064205,-1.0648931318450767,-1.061168407230414,1.025975269654544,539,534,-5,0,Low Exposure Manual & Technical
+45-4021,Fallers,Farming & Fishing,-1.795407,-1.7965679433725172,-2.3771836107809596,1.949945073606613,644,655,11,0,Low Exposure Manual & Technical
+45-4022,Logging Equipment Operators,Farming & Fishing,-1.003702,-1.0043510092553618,-1.3846861358626708,1.5023385527239976,524,613,89,0,Low Exposure Manual & Technical
+45-4023,Log Graders and Scalers,Farming & Fishing,-0.4768305,-0.4771388223881485,-0.5987194958797346,0.662480767846732,385,416,31,0,Low Exposure Manual & Technical
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,Construction,-0.3054048,-0.3056022747057575,-0.2592007340655112,0.6389356647098586,357,365,8,1,Moderate Exposure Service & Healthcare
+47-2011,Boilermakers,Construction,-1.097532,-1.0982416818268532,-1.2669965008207618,1.241587444477793,549,584,35,0,Low Exposure Manual & Technical
+47-2021,Brickmasons and Blockmasons,Construction,-1.75434,-1.7554743885340494,-1.2554966413187074,1.493713855865529,638,581,-57,0,Low Exposure Manual & Technical
+47-2022,Stonemasons,Construction,-1.714759,-1.7158677945763363,-1.2027522904135113,1.563589743547533,631,567,-64,0,Low Exposure Manual & Technical
+47-2031,Carpenters,Construction,-1.323631,-1.3244868824848697,-0.9849400720604331,1.3104212937630622,596,512,-84,0,Low Exposure Manual & Technical
+47-2041,Carpet Installers,Construction,-1.564577,-1.565588683544345,-1.2769850691355205,1.2612911731123213,620,587,-33,0,Low Exposure Manual & Technical
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Construction,-1.301024,-1.3018652642942723,-0.7330542141222222,0.5319175278356254,592,444,-148,4,Low Exposure Routine Service
+47-2043,Floor Sanders and Finishers,Construction,-1.748722,-1.7498527558099033,-1.167242973985132,1.329086304210263,636,562,-74,0,Low Exposure Manual & Technical
+47-2044,Tile and Stone Setters,Construction,-1.22543,-1.226222383527254,-1.0417362536011456,1.0134044859126452,581,527,-54,0,Low Exposure Manual & Technical
+47-2051,Cement Masons and Concrete Finishers,Construction,-1.777407,-1.7785563041709096,-1.3794307737955085,1.5544680819881203,642,610,-32,0,Low Exposure Manual & Technical
+47-2053,Terrazzo Workers and Finishers,Construction,-1.776065,-1.7772134364037675,-1.5225381151350794,1.5027198256034962,641,633,-8,0,Low Exposure Manual & Technical
+47-2061,Construction Laborers,Construction,-1.622988,-1.6240374534001845,-1.163255522033608,1.4641816253963016,626,561,-65,0,Low Exposure Manual & Technical
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",Construction,-1.184739,-1.1855050718187754,-1.5581346195259818,1.4373863510953775,571,636,65,0,Low Exposure Manual & Technical
+47-2072,Pile Driver Operators,Construction,-1.220009,-1.2207978781877031,-1.640108997336512,1.5836589982830123,578,642,64,0,Low Exposure Manual & Technical
+47-2073,Operating Engineers and Other Construction Equipment Operators,Construction,-0.8815078,-0.8820777957593011,-1.0404643221454082,1.4199039217173024,486,526,40,0,Low Exposure Manual & Technical
+47-2081,Drywall and Ceiling Tile Installers,Construction,-1.647971,-1.6490366079653935,-1.5351001074563881,1.189832064271539,628,634,6,4,Low Exposure Routine Service
+47-2082,Tapers,Construction,-1.540774,-1.5417702919934635,-1.4485107770310837,0.7935266698937454,617,624,7,4,Low Exposure Routine Service
+47-2111,Electricians,Construction,-0.7796905,-0.7801946584214207,-0.46347930939830534,1.2289689296664275,460,393,-67,0,Low Exposure Manual & Technical
+47-2121,Glaziers,Construction,-1.388901,-1.3897990875231434,-0.9727878529275431,1.0609973042811194,602,504,-98,0,Low Exposure Manual & Technical
+47-2131,"Insulation Workers, Floor, Ceiling, and Wall",Construction,-1.618772,-1.619818727240519,-1.4616050293418068,1.2909609443069132,625,627,2,4,Low Exposure Routine Service
+47-2132,"Insulation Workers, Mechanical",Construction,-1.268615,-1.269435307911778,-1.074443896118719,1.039678694380363,588,536,-52,0,Low Exposure Manual & Technical
+47-2141,"Painters, Construction and Maintenance",Construction,-1.58799,-1.5890168229125252,-0.8335566131031684,0.9292767912675778,622,468,-154,0,Low Exposure Manual & Technical
+47-2142,Paperhangers,Construction,-1.72753,-1.7286470525898772,-1.3065481457559214,0.9295143902185838,633,593,-40,4,Low Exposure Routine Service
+47-2151,Pipelayers,Construction,-1.225611,-1.2264035005658926,-1.2537594665656007,0.965238830515599,582,580,-2,4,Low Exposure Routine Service
+47-2152,"Plumbers, Pipefitters, and Steamfitters",Construction,-1.121219,-1.1219439983695465,-0.9004432056843995,1.10320652646482,554,486,-68,0,Low Exposure Manual & Technical
+47-2161,Plasterers and Stucco Masons,Construction,-1.755588,-1.7567231955186942,-1.2260077616693055,1.2809741931114067,639,575,-64,0,Low Exposure Manual & Technical
+47-2171,Reinforcing Iron and Rebar Workers,Construction,-1.970997,-1.9722714837842,-1.6118022008805721,1.5388681159799442,653,640,-13,0,Low Exposure Manual & Technical
+47-2181,Roofers,Construction,-1.752941,-1.7540744839094355,-1.3383425129058035,1.5671501169384026,637,599,-38,0,Low Exposure Manual & Technical
+47-2211,Sheet Metal Workers,Construction,-1.174972,-1.1757317562586584,-0.6999328708450434,1.2436828059427096,568,435,-133,0,Low Exposure Manual & Technical
+47-2221,Structural Iron and Steel Workers,Construction,-1.780065,-1.7812160228930136,-1.7508367753948353,1.9378764468863612,643,650,7,0,Low Exposure Manual & Technical
+47-2231,Solar Photovoltaic Installers,Construction,-0.9441692,-0.9447797140186134,-0.9843252442204473,1.107592155988819,502,510,8,0,Low Exposure Manual & Technical
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Construction,-1.94229,-1.9435459211975028,-1.623700350270462,1.6072453989607103,651,641,-10,0,Low Exposure Manual & Technical
+47-3012,Helpers--Carpenters,Construction,-1.425282,-1.4262036122894597,-1.4187580710638275,1.2860660121730816,610,618,8,0,Low Exposure Manual & Technical
+47-3013,Helpers--Electricians,Construction,-1.506896,-1.5078703857227933,-0.7672658676944486,1.2655207727176339,614,455,-159,0,Low Exposure Manual & Technical
+47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Construction,-2.04484,-2.046162232315551,-1.6514327174402432,1.1415268472371805,654,645,-9,4,Low Exposure Routine Service
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Construction,-1.678876,-1.6799615918279316,-1.203939030969562,1.095570013916476,629,568,-61,0,Low Exposure Manual & Technical
+47-3016,Helpers--Roofers,Construction,-1.89822,-1.8994474245522333,-1.1704109507192104,1.4385934152445041,648,563,-85,0,Low Exposure Manual & Technical
+47-4011,Construction and Building Inspectors,Construction,0.2860245,0.2862094566753193,0.3059308032441658,-0.07662849155258035,266,274,8,1,Moderate Exposure Service & Healthcare
+47-4021,Elevator and Escalator Installers and Repairers,Construction,-0.8604742,-0.8610305949642492,-0.9824474343116224,1.0810444024899988,478,509,31,0,Low Exposure Manual & Technical
+47-4031,Fence Erectors,Construction,-1.902113,-1.903342941852892,-1.4977311151636663,1.3377537317026638,649,632,-17,4,Low Exposure Routine Service
+47-4041,Hazardous Materials Removal Workers,Construction,-0.6887439,-0.6891892503207022,-0.6299804261094084,0.8824747269444306,433,424,-9,0,Low Exposure Manual & Technical
+47-4051,Highway Maintenance Workers,Construction,-1.27909,-1.2799170812804914,-0.9029259550157207,1.2735357423647033,590,487,-103,0,Low Exposure Manual & Technical
+47-4061,Rail-Track Laying and Maintenance Equipment Operators,Construction,-1.39906,-1.3999646565592063,-1.2246522932863295,1.6620077573966678,605,574,-31,0,Low Exposure Manual & Technical
+47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,Construction,-1.210591,-1.2113737882987732,-1.4327254700743095,1.3830427003954688,577,620,43,0,Low Exposure Manual & Technical
+47-5011,"Derrick Operators, Oil and Gas",Construction,-1.415002,-1.415916965012097,-1.577916225798299,1.7419966417697206,609,637,28,0,Low Exposure Manual & Technical
+47-5012,"Rotary Drill Operators, Oil and Gas",Construction,-0.7737326,-0.7742329059103508,-0.7897550299605307,1.1716979089432404,459,458,-1,0,Low Exposure Manual & Technical
+47-5013,"Service Unit Operators, Oil and Gas",Construction,-0.971916,-0.9725444557185672,-0.8348854144778203,1.5206852393392498,515,469,-46,0,Low Exposure Manual & Technical
+47-5041,Continuous Mining Machine Operators,Construction,-1.165492,-1.1662456262791452,-1.6747296502239193,1.704381975406876,565,647,82,0,Low Exposure Manual & Technical
+47-5051,"Rock Splitters, Quarry",Construction,-1.763494,-1.764634307714689,-1.7610436163717194,1.280501349234578,640,652,12,4,Low Exposure Routine Service
+47-5071,"Roustabouts, Oil and Gas",Construction,-1.518977,-1.519959197566939,-1.3413937351471816,1.5345504618371022,616,600,-16,0,Low Exposure Manual & Technical
+47-5081,Helpers--Extraction Workers,Construction,-1.543154,-1.544151830954565,-1.300728728134895,1.8655881534963656,618,591,-27,0,Low Exposure Manual & Technical
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",Installation & Repair,-0.0205169,-0.0205301598333306,0.01918043612246675,0.570278434126354,309,329,20,1,Moderate Exposure Service & Healthcare
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",Installation & Repair,-0.3458247,-0.3460483111149277,-0.6138653443598397,0.458808645086306,361,420,59,4,Low Exposure Routine Service
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",Installation & Repair,-0.6335382,-0.6339478530833582,-0.5067244649529249,0.987512230410122,424,401,-23,0,Low Exposure Manual & Technical
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",Installation & Repair,-0.853048,-0.8535995930176393,-0.5722181977662514,0.9524174441152584,475,412,-63,0,Low Exposure Manual & Technical
+49-2091,Avionics Technicians,Installation & Repair,-0.1728535,-0.1729652640777543,-0.1721335727343622,0.36274035053032505,330,356,26,1,Moderate Exposure Service & Healthcare
+49-2092,"Electric Motor, Power Tool, and Related Repairers",Installation & Repair,-0.8106341,-0.81115826724358,-0.7985282515452636,1.226158339826962,464,460,-4,0,Low Exposure Manual & Technical
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Installation & Repair,-0.8303875,-0.8309244402327487,-0.7309133651728109,0.824045534668907,470,443,-27,0,Low Exposure Manual & Technical
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Installation & Repair,-0.4632031,-0.4635026106072602,-0.47201367857823845,0.6460154135078859,382,394,12,0,Low Exposure Manual & Technical
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Installation & Repair,-0.5522636,-0.5526206991136369,-0.5761277154918345,0.7499991617526519,404,414,10,0,Low Exposure Manual & Technical
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",Installation & Repair,-0.7915968,-0.7921086573006485,-0.45200387291057204,0.9372039998723412,462,392,-70,0,Low Exposure Manual & Technical
+49-2097,Audiovisual Equipment Installers and Repairers,Installation & Repair,-0.571284,-0.5716533981286513,-0.3888940481846485,0.6473547737785164,411,380,-31,0,Low Exposure Manual & Technical
+49-2098,Security and Fire Alarm Systems Installers,Installation & Repair,-0.6926484,-0.6930962750575177,-0.5948643849806612,0.7171200238943274,435,415,-20,0,Low Exposure Manual & Technical
+49-3011,Aircraft Mechanics and Service Technicians,Installation & Repair,-0.6551197,-0.6555433081627746,-0.6520747225700204,1.2594086248211378,428,427,-1,0,Low Exposure Manual & Technical
+49-3021,Automotive Body and Related Repairers,Installation & Repair,-1.180589,-1.1813523883361827,-1.120061904856732,1.2096021378271764,569,548,-21,0,Low Exposure Manual & Technical
+49-3022,Automotive Glass Installers and Repairers,Installation & Repair,-1.202285,-1.2030624174538538,-1.3050316930317023,0.7944361290741294,575,592,17,4,Low Exposure Routine Service
+49-3023,Automotive Service Technicians and Mechanics,Installation & Repair,-0.9547055,-0.9553228270252744,-1.0871382655011184,1.2768000040971814,505,538,33,0,Low Exposure Manual & Technical
+49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,Installation & Repair,-1.010472,-1.0111253868884107,-1.2494535535993425,1.4510326561457354,526,578,52,0,Low Exposure Manual & Technical
+49-3041,Farm Equipment Mechanics and Service Technicians,Installation & Repair,-1.20703,-1.207810485676722,-1.0547275363434996,1.4351834286412615,576,533,-43,0,Low Exposure Manual & Technical
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",Installation & Repair,-1.169815,-1.170571421627398,-1.1528962994971899,1.6022148966315584,567,556,-11,0,Low Exposure Manual & Technical
+49-3043,Rail Car Repairers,Installation & Repair,-1.448102,-1.4490383682106087,-1.3911733410730311,1.5047439422903486,612,616,4,0,Low Exposure Manual & Technical
+49-3051,Motorboat Mechanics and Service Technicians,Installation & Repair,-0.8863602,-0.8869333334294057,-1.1009727520619434,1.0763458279591651,489,544,55,0,Low Exposure Manual & Technical
+49-3052,Motorcycle Mechanics,Installation & Repair,-0.763721,-0.7642148321864166,-0.7377332680075804,1.0643408464570303,456,448,-8,0,Low Exposure Manual & Technical
+49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,Installation & Repair,-0.8941408,-0.8947189645389628,-0.9951574995356784,1.080158877128665,493,515,22,0,Low Exposure Manual & Technical
+49-3091,Bicycle Repairers,Installation & Repair,-0.9226068,-0.923203371289683,-0.41310664624654675,0.6854534946461636,498,383,-115,1,Moderate Exposure Service & Healthcare
+49-3092,Recreational Vehicle Service Technicians,Installation & Repair,-0.9244052,-0.925002934175248,-0.9775065082661102,0.8776394267809675,499,506,7,0,Low Exposure Manual & Technical
+49-3093,Tire Repairers and Changers,Installation & Repair,-1.550724,-1.5517267258854637,-1.21773154362556,1.1634130492536956,619,572,-47,0,Low Exposure Manual & Technical
+49-9011,Mechanical Door Repairers,Installation & Repair,-1.383152,-1.3840463700914745,-1.1250502143431351,1.2426422377098703,600,551,-49,0,Low Exposure Manual & Technical
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",Installation & Repair,-0.7606913,-0.7611831731147993,-0.7202886849195264,0.8753315961555107,454,441,-13,0,Low Exposure Manual & Technical
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Installation & Repair,-0.8491117,-0.8496607477182344,-0.839244390991693,1.1775451142353492,474,472,-2,0,Low Exposure Manual & Technical
+49-9031,Home Appliance Repairers,Installation & Repair,-0.9703799,-0.9710073624420344,-0.7353411069736334,0.8704814040617892,511,446,-65,0,Low Exposure Manual & Technical
+49-9041,Industrial Machinery Mechanics,Installation & Repair,-1.133177,-1.133909730679148,-1.2118526587416445,1.4219207516512045,557,569,12,0,Low Exposure Manual & Technical
+49-9043,"Maintenance Workers, Machinery",Installation & Repair,-0.9735492,-0.9741787117821264,-1.1266606775091084,1.1004375756814573,517,554,37,0,Low Exposure Manual & Technical
+49-9044,Millwrights,Installation & Repair,-1.266085,-1.2669036719573297,-1.0000365971783345,1.6237309170033245,587,517,-70,0,Low Exposure Manual & Technical
+49-9045,"Refractory Materials Repairers, Except Brickmasons",Installation & Repair,-1.237463,-1.238263164333529,-1.2722196738602622,1.0909052026230843,585,586,1,0,Low Exposure Manual & Technical
+49-9051,Electrical Power-Line Installers and Repairers,Installation & Repair,-1.081398,-1.082097249222479,-1.3102161220490383,1.508779890276126,544,595,51,0,Low Exposure Manual & Technical
+49-9052,Telecommunications Line Installers and Repairers,Installation & Repair,-1.083883,-1.084583856078923,-0.8374421052096355,1.0426835698765529,545,470,-75,0,Low Exposure Manual & Technical
+49-9061,Camera and Photographic Equipment Repairers,Installation & Repair,0.0546422,0.0546775397176444,-0.4320889210861793,0.04065186166310843,299,387,88,4,Low Exposure Routine Service
+49-9062,Medical Equipment Repairers,Installation & Repair,-0.2768838,-0.2770628323908102,-0.6582970598241628,0.7177912322639789,353,429,76,0,Low Exposure Manual & Technical
+49-9063,Musical Instrument Repairers and Tuners,Installation & Repair,-0.5306271,-0.5309702084699934,-0.9987045344735807,0.9237696509065697,400,516,116,0,Low Exposure Manual & Technical
+49-9064,Watch and Clock Repairers,Installation & Repair,-0.2123996,-0.2125369354683486,-0.7365239681548682,0.3556724991953219,341,447,106,4,Low Exposure Routine Service
+49-9071,"Maintenance and Repair Workers, General",Installation & Repair,-1.014408,-1.0150639319938288,-0.8758822008869269,1.2397991949651996,527,479,-48,0,Low Exposure Manual & Technical
+49-9081,Wind Turbine Service Technicians,Installation & Repair,-0.9709935,-0.9716213592094848,-0.9394553120101409,1.3503891378047637,514,497,-17,0,Low Exposure Manual & Technical
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",Installation & Repair,-0.7233995,-0.723867259404882,-1.2949042859409237,0.7498425839945858,439,589,150,4,Low Exposure Routine Service
+49-9092,Commercial Divers,Installation & Repair,-1.102728,-1.1034410416763838,-1.0236214854273527,1.4573685773687024,550,521,-29,0,Low Exposure Manual & Technical
+49-9094,Locksmiths and Safe Repairers,Installation & Repair,-0.8657498,-0.866309606284916,-0.5397628478337098,0.9649066124929727,480,405,-75,0,Low Exposure Manual & Technical
+49-9095,Manufactured Building and Mobile Home Installers,Installation & Repair,-1.414062,-1.414976357187124,-1.0203398864176398,1.9996114210606404,608,520,-88,0,Low Exposure Manual & Technical
+49-9096,Riggers,Installation & Repair,-1.221519,-1.2223088545873937,-1.2707600117234328,1.265522416171419,580,585,5,0,Low Exposure Manual & Technical
+49-9097,Signal and Track Switch Repairers,Installation & Repair,-0.858221,-0.8587759379948569,-1.3580246267159521,1.2565777820358714,476,608,132,0,Low Exposure Manual & Technical
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers",Installation & Repair,-1.346555,-1.3474257056547392,-1.3870220779085256,1.369559443880399,598,615,17,0,Low Exposure Manual & Technical
+49-9099,Geothermal Technicians,Installation & Repair,-0.5900791,-0.5904606514596589,-0.7212092481378,1.0906692235381772,413,442,29,0,Low Exposure Manual & Technical
+51-1011,First-Line Supervisors of Production and Operating Workers,Production,-0.0845282,-0.0845828509681011,0.1104360166901448,0.26709308034648604,319,314,-5,1,Moderate Exposure Service & Healthcare
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",Production,-0.8684706,-0.8690321656149012,-0.8891940900410727,1.0029672126303943,482,482,0,0,Low Exposure Manual & Technical
+51-2021,"Coil Winders, Tapers, and Finishers",Production,-0.8289722,-0.8295082250681912,-0.9809987083118775,0.5744827684108517,468,508,40,4,Low Exposure Routine Service
+51-2031,Engine and Other Machine Assemblers,Production,-0.9561453,-0.9567635580320786,-1.2612810628615172,1.0877270008318638,506,582,76,0,Low Exposure Manual & Technical
+51-2041,Structural Metal Fabricators and Fitters,Production,-1.076307,-1.0770029572682909,-1.1255814359890954,0.9447033318932866,542,553,11,0,Low Exposure Manual & Technical
+51-3011,Bakers,Production,-0.3852989,-0.3855480360133778,-0.6992842119348551,0.30607613215868706,372,434,62,4,Low Exposure Routine Service
+51-3021,Butchers and Meat Cutters,Production,-0.9709924,-0.9716202584982,-0.8615883923667459,0.9199762368590206,513,475,-38,0,Low Exposure Manual & Technical
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",Production,-1.10563,-1.106344918174332,-0.8553889169802386,0.8537222584880293,551,474,-77,0,Low Exposure Manual & Technical
+51-3023,Slaughterers and Meat Packers,Production,-1.834668,-1.8358543304110904,-1.4951626012644887,0.7655081999190316,647,631,-16,4,Low Exposure Routine Service
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",Production,-0.758859,-0.7593496883087378,-0.7481029580662596,0.7593333417717405,452,453,1,0,Low Exposure Manual & Technical
+51-3092,Food Batchmakers,Production,-0.3791114,-0.3793565350378252,-0.7434387936769878,0.5649576295861471,369,452,83,0,Low Exposure Manual & Technical
+51-3093,Food Cooking Machine Operators and Tenders,Production,-0.5559894,-0.5563489082990453,-0.9424809061811863,0.5528913327143495,407,499,92,4,Low Exposure Routine Service
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",Production,-1.234352,-1.2351501526915176,-1.265992469941254,1.2310117252790282,584,583,-1,0,Low Exposure Manual & Technical
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",Production,-0.8046677,-0.8051880092362205,-1.0260726491050345,0.8698960801562682,463,524,61,0,Low Exposure Manual & Technical
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",Production,-1.08921,-1.0899143006359766,-1.1197501779962393,1.3289252496896609,546,547,1,0,Low Exposure Manual & Technical
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",Production,-1.036569,-1.037239261790875,-1.4360787989610126,0.9742410408723772,532,622,90,4,Low Exposure Routine Service
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,-0.7598132,-0.7603045053157476,-1.073658727331784,0.8462101395288151,453,535,82,0,Low Exposure Manual & Technical
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,-0.9901662,-0.9908064567050772,-1.1885578664207856,1.1076320742225276,520,566,46,0,Low Exposure Manual & Technical
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,-1.06734,-1.0680301590060233,-1.0465219091133033,1.0831926755855958,541,531,-10,0,Low Exposure Manual & Technical
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Production,-0.8703219,-0.8708846627067865,-1.112954533621832,0.9294987340824317,483,545,62,0,Low Exposure Manual & Technical
+51-4041,Machinists,Production,-0.8675535,-0.8681144725975792,-1.0915094713004705,1.0141984540393914,481,540,59,0,Low Exposure Manual & Technical
+51-4051,Metal-Refining Furnace Operators and Tenders,Production,-1.167465,-1.168219902064966,-1.3565921825057834,1.412733260342453,566,606,40,0,Low Exposure Manual & Technical
+51-4052,"Pourers and Casters, Metal",Production,-1.00914,-1.0097925255874918,-1.3521555897497657,1.0895909631362257,525,604,79,0,Low Exposure Manual & Technical
+51-4061,"Model Makers, Metal and Plastic",Production,-0.7421977,-0.7426776147404187,-1.3095901552286022,1.071030647144896,448,594,146,0,Low Exposure Manual & Technical
+51-4062,"Patternmakers, Metal and Plastic",Production,-0.6131331,-0.613529558690429,-0.9776783197292871,0.7409180672183217,419,507,88,0,Low Exposure Manual & Technical
+51-4071,Foundry Mold and Coremakers,Production,-1.740349,-1.7414743416412886,-1.7253247765578201,1.2946760189870863,635,648,13,4,Low Exposure Routine Service
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",Production,-1.146139,-1.14688011219755,-1.3795571619478446,1.1339325122102484,560,611,51,0,Low Exposure Manual & Technical
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,-0.74266,-0.7431402136739134,-0.7043670302157038,1.0181702634232987,449,437,-12,0,Low Exposure Manual & Technical
+51-4111,Tool and Die Makers,Production,-0.5317897,-0.5321335602330928,-0.8644833871446698,0.7003072152095854,402,476,74,0,Low Exposure Manual & Technical
+51-4121,"Welders, Cutters, Solderers, and Brazers",Production,-1.197596,-1.198370385441835,-1.5427833762077867,0.9589557106335526,573,635,62,4,Low Exposure Routine Service
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Production,-1.002411,-1.0030591744659574,-1.2202487898376166,1.108591628708847,523,573,50,0,Low Exposure Manual & Technical
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Production,-1.092486,-1.0931924189706692,-1.4268914375792474,1.322096701077102,548,619,71,0,Low Exposure Manual & Technical
+51-4192,"Layout Workers, Metal and Plastic",Production,-0.7221353,-0.7226022419449557,-0.7152258433068688,0.9037902562737327,438,440,2,0,Low Exposure Manual & Technical
+51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Production,-0.8999876,-0.900569545210294,-0.9055791440191661,0.7440433059840531,494,488,-6,0,Low Exposure Manual & Technical
+51-4194,"Tool Grinders, Filers, and Sharpeners",Production,-0.8809238,-0.8814934181318713,-1.151715726891973,1.0288263737157592,485,555,70,0,Low Exposure Manual & Technical
+51-5111,Prepress Technicians and Workers,Production,0.4107973,0.4110629375516722,0.13291706020708452,-0.2853884091009835,252,310,58,2,High Exposure Analytical & Office
+51-5112,Printing Press Operators,Production,-0.7093881,-0.709846799321026,-0.6170015118805214,0.8414296107530898,436,421,-15,0,Low Exposure Manual & Technical
+51-5113,Print Binding and Finishing Workers,Production,-0.9062089,-0.9067948680416806,-1.0242117297320352,0.9716896970915598,496,522,26,0,Low Exposure Manual & Technical
+51-6011,Laundry and Dry-Cleaning Workers,Production,-1.054399,-1.0550807910666895,-1.093795615021761,0.5548730616558214,537,542,5,4,Low Exposure Routine Service
+51-6021,"Pressers, Textile, Garment, and Related Materials",Production,-1.950063,-1.9513239473927304,-1.7492052449515851,0.9813212642184829,652,649,-3,4,Low Exposure Routine Service
+51-6031,Sewing Machine Operators,Production,-0.9639661,-0.9645894151358528,-1.3207187882591005,0.6842887751784137,510,597,87,4,Low Exposure Routine Service
+51-6041,Shoe and Leather Workers and Repairers,Production,-0.990912,-0.991552738955997,-0.9848468788208936,0.6264223836235286,521,511,-10,4,Low Exposure Routine Service
+51-6042,Shoe Machine Operators and Tenders,Production,-1.029855,-1.0305209203686752,-0.8310299735154457,0.8044167286368917,530,467,-63,0,Low Exposure Manual & Technical
+51-6051,"Sewers, Hand",Production,-0.5987218,-0.5991089400223107,-1.1233233418227366,0.4182721601673675,418,549,131,4,Low Exposure Routine Service
+51-6052,"Tailors, Dressmakers, and Custom Sewers",Production,-0.4305268,-0.4308051813826217,-0.8972981092432132,0.3413311761904584,375,485,110,4,Low Exposure Routine Service
+51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,Production,-0.8609312,-0.8614878904706457,-1.1809958402399936,0.8967835088176952,479,565,86,0,Low Exposure Manual & Technical
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",Production,-1.022949,-1.023610454794992,-1.3271004044978674,1.1359958974547675,529,598,69,0,Low Exposure Manual & Technical
+51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Production,-1.241662,-1.242464879500615,-1.0417851192944765,0.8192109610530222,586,528,-58,4,Low Exposure Routine Service
+51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Production,-1.392929,-1.3938296921178144,-1.6027856670641443,1.1807688310738955,603,639,36,4,Low Exposure Routine Service
+51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Production,-0.8596925,-0.8602483894995883,-1.158033576239536,1.0848982929212379,477,559,82,0,Low Exposure Manual & Technical
+51-6092,Fabric and Apparel Patternmakers,Production,-0.0831096,-0.0831633336696899,0.11131148478709309,-0.0005261518788724286,318,313,-5,1,Moderate Exposure Service & Healthcare
+51-6093,Upholsterers,Production,-1.313735,-1.3145844835104743,-1.1541796997417415,1.2490668048385924,594,557,-37,0,Low Exposure Manual & Technical
+51-7011,Cabinetmakers and Bench Carpenters,Production,-1.327489,-1.3283473771537473,-1.3494438312318264,1.3767099316854667,597,603,6,0,Low Exposure Manual & Technical
+51-7021,Furniture Finishers,Production,-1.197727,-1.1985014701493577,-0.9584904694862404,1.0309922914900844,574,502,-72,0,Low Exposure Manual & Technical
+51-7031,"Model Makers, Wood",Production,-0.7278869,-0.7283575610578428,-0.7902120690425366,0.8116466499035921,442,459,17,0,Low Exposure Manual & Technical
+51-7032,"Patternmakers, Wood",Production,-1.057897,-1.0585810529515356,-1.0926457046587414,1.0529453464634149,538,541,3,0,Low Exposure Manual & Technical
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",Production,-1.165031,-1.1657843281862597,-1.6421751252826973,1.1676344407750199,564,643,79,4,Low Exposure Routine Service
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Production,-1.130357,-1.1310879072042297,-1.6739761085507694,1.19482606113708,556,646,90,4,Low Exposure Routine Service
+51-8011,Nuclear Power Reactor Operators,Production,0.7705302,0.7710284488710063,0.4089840534156462,-0.35355699141980607,207,263,56,1,Moderate Exposure Service & Healthcare
+51-8012,Power Distributors and Dispatchers,Production,0.5012214,0.501545507792233,0.5576652218093273,-0.679689601901998,243,240,-3,2,High Exposure Analytical & Office
+51-8013,Power Plant Operators,Production,-0.3482779,-0.3485030974087824,-0.781514439164275,0.8993725575732453,362,457,95,0,Low Exposure Manual & Technical
+51-8021,Stationary Engineers and Boiler Operators,Production,-0.5032496,-0.5035750055676592,-0.5750790494040853,0.8645990978753461,390,413,23,0,Low Exposure Manual & Technical
+51-8031,Water and Wastewater Treatment Plant and System Operators,Production,-0.44501,-0.4452977465428842,-0.4755290491301109,0.7086114306161404,377,395,18,0,Low Exposure Manual & Technical
+51-8091,Chemical Plant and System Operators,Production,-0.3831282,-0.3833759323903261,-0.825986806567845,0.7202992883920178,370,466,96,0,Low Exposure Manual & Technical
+51-8092,Gas Plant Operators,Production,-0.2982082,-0.2984010212236304,-0.6620804823291234,0.8459147454497186,355,430,75,0,Low Exposure Manual & Technical
+51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Production,-0.370036,-0.370275266681699,-0.938880181050359,0.9942316465499137,366,495,129,0,Low Exposure Manual & Technical
+51-8099,Biofuels Processing Technicians,Production,-0.6702387,-0.6706720844455027,-0.8122081477515023,1.0814130188368765,431,464,33,0,Low Exposure Manual & Technical
+51-9011,Chemical Equipment Operators and Tenders,Production,-0.511521,-0.5118517540394469,-0.6118510592301095,0.8585105253103406,393,419,26,0,Low Exposure Manual & Technical
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Production,-0.9379141,-0.9385205693313924,-1.2467279164355407,1.1066528178315107,501,577,76,0,Low Exposure Manual & Technical
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Production,-1.043476,-1.0441507280111808,-1.486730761143886,1.2113904628810468,535,629,94,0,Low Exposure Manual & Technical
+51-9022,"Grinding and Polishing Workers, Hand",Production,-1.146524,-1.1472653611471402,-0.8772299301065357,1.3053362303814344,561,480,-81,0,Low Exposure Manual & Technical
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",Production,-0.819664,-0.8201940061783909,-1.1253397455207255,1.057958412547428,466,552,86,0,Low Exposure Manual & Technical
+51-9031,"Cutters and Trimmers, Hand",Production,-0.9479839,-0.9485968806887451,-0.9874187792286634,0.5285070030545768,503,513,10,4,Low Exposure Routine Service
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",Production,-1.079282,-1.0799798809696677,-1.2168984043746873,1.2343372238640982,543,571,28,0,Low Exposure Manual & Technical
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",Production,-1.042151,-1.042824871236618,-1.2851198133938913,1.2361275830764216,534,588,54,0,Low Exposure Manual & Technical
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",Production,-0.9582346,-0.958854209020074,-0.9389620770232937,0.7106076646130246,507,496,-11,0,Low Exposure Manual & Technical
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",Production,-0.0293395,-0.0293584647233363,-0.5705801788096001,0.48270809977019136,310,410,100,0,Low Exposure Manual & Technical
+51-9071,Jewelers and Precious Stone and Metal Workers,Production,-0.1560197,-0.1561205789670864,-0.4465778317963512,0.10891979313442597,328,389,61,4,Low Exposure Routine Service
+51-9081,Dental Laboratory Technicians,Production,0.0013206,0.0013214607813975,-0.17125325302053832,0.3365653217817018,307,355,48,1,Moderate Exposure Service & Healthcare
+51-9082,Medical Appliance Technicians,Production,-0.4949538,-0.4952738413182872,-0.37574185059269777,0.46790521816989805,388,378,-10,1,Moderate Exposure Service & Healthcare
+51-9083,Ophthalmic Laboratory Technicians,Production,-0.5966759,-0.5970617170977237,-0.8380473294498653,0.4227254855346287,417,471,54,4,Low Exposure Routine Service
+51-9111,Packaging and Filling Machine Operators and Tenders,Production,-0.978608,-0.979240782915076,-1.0520273923930725,0.9663247395853357,519,532,13,0,Low Exposure Manual & Technical
+51-9123,"Painting, Coating, and Decorating Workers",Production,-0.9705587,-0.9711862780581036,-0.753657799156612,0.2573156781601877,512,454,-58,4,Low Exposure Routine Service
+51-9141,Semiconductor Processing Technicians,Production,-0.6372312,-0.6376432410595547,-0.7126147660670001,0.615031149856477,426,439,13,0,Low Exposure Manual & Technical
+51-9151,Photographic Process Workers and Processing Machine Operators,Production,-0.3615806,-0.361814399231406,-0.37204835625723787,0.3377813516300923,364,377,13,4,Low Exposure Routine Service
+51-9191,Adhesive Bonding Machine Operators and Tenders,Production,-1.311418,-1.3122659852865786,-1.491871036003958,1.4238234606740996,593,630,37,0,Low Exposure Manual & Technical
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Production,-1.141885,-1.1426233614662369,-1.0038452592826737,0.8389786494835529,558,518,-40,0,Low Exposure Manual & Technical
+51-9193,Cooling and Freezing Equipment Operators and Tenders,Production,-0.9604952,-0.9611162707744716,-0.9180874184835239,0.9841865372120291,509,491,-18,0,Low Exposure Manual & Technical
+51-9194,Etchers and Engravers,Production,-0.6395226,-0.6399361227299194,-0.6737293032785843,0.5621085369814433,427,432,5,0,Low Exposure Manual & Technical
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",Production,-1.183408,-1.1841732111644787,-1.2507283540407061,1.064351186496378,570,579,9,0,Low Exposure Manual & Technical
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",Production,-0.8740445,-0.8746096698230035,-0.9603780256235638,0.907857745156622,484,503,19,0,Low Exposure Manual & Technical
+51-9197,Tire Builders,Production,-1.610915,-1.6119566467290172,-1.2957652548260952,1.2829715483900874,624,590,-34,0,Low Exposure Manual & Technical
+51-9198,Helpers--Production Workers,Production,-1.411304,-1.4122165738027888,-1.4346551013405249,1.1089108017306726,607,621,14,4,Low Exposure Routine Service
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",Transportation,-0.2070626,-0.207196484445072,-0.739873490550017,1.290598191748014,340,449,109,0,Low Exposure Manual & Technical
+53-2012,Commercial Pilots,Transportation,-0.1817332,-0.1818507058898941,-0.4037702411793032,1.2357225654893416,332,381,49,1,Moderate Exposure Service & Healthcare
+53-2021,Air Traffic Controllers,Transportation,1.152798,1.1535434317594686,0.8972846432508874,-0.5970216994721075,129,168,39,1,Moderate Exposure Service & Healthcare
+53-2022,Airfield Operations Specialists,Transportation,0.4845738,0.4848871430826393,0.10217637224819646,0.25605098271501475,245,315,70,1,Moderate Exposure Service & Healthcare
+53-2031,Flight Attendants,Transportation,-0.7621183,-0.7626110958448379,-0.3515339586285105,0.332580893962109,455,374,-81,1,Moderate Exposure Service & Healthcare
+53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Transportation,-0.8298703,-0.8304069057996891,-0.8195687510750478,0.9274226695241273,469,465,-4,0,Low Exposure Manual & Technical
+53-3031,Driver/Sales Workers,Transportation,-0.7293087,-0.7297802804254453,-0.9456136221605973,0.6409341078614283,443,500,57,4,Low Exposure Routine Service
+53-3032,Heavy and Tractor-Trailer Truck Drivers,Transportation,-1.149057,-1.1497999990414551,-1.7972753711305365,1.6067942804630915,562,653,91,0,Low Exposure Manual & Technical
+53-3033,Light Truck Drivers,Transportation,-1.120501,-1.1212255340947268,-1.236281100500096,1.2777554837213823,553,576,23,0,Low Exposure Manual & Technical
+53-4011,Locomotive Engineers,Transportation,-0.4977403,-0.4980621431313583,-1.1142051943055187,1.412206936294645,389,546,157,0,Low Exposure Manual & Technical
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Transportation,-0.8320907,-0.8326287415598697,-1.04634365388862,1.462166151051173,471,530,59,0,Low Exposure Manual & Technical
+53-4031,Railroad Conductors and Yardmasters,Transportation,-0.4662731,-0.4665745957377566,-0.692015468712104,0.6497250380903536,383,433,50,0,Low Exposure Manual & Technical
+53-4041,Subway and Streetcar Operators,Transportation,-0.6155429,-0.6159409169208754,-1.3554267009244307,1.3749411084313998,420,605,185,0,Low Exposure Manual & Technical
+53-5011,Sailors and Marine Oilers,Transportation,-1.150001,-1.1507446094529172,-1.3490738916944967,1.746908242110471,563,602,39,0,Low Exposure Manual & Technical
+53-5021,"Captains, Mates, and Pilots of Water Vessels",Transportation,-0.4281868,-0.4284636682864127,-0.9367080403376952,1.4148073600861646,374,494,120,0,Low Exposure Manual & Technical
+53-5022,Motorboat Operators,Transportation,-0.8871186,-0.8876922238277667,-1.3801160381166564,1.5049693325280897,490,612,122,0,Low Exposure Manual & Technical
+53-5031,Ship Engineers,Transportation,-0.5264951,-0.5268355366266021,-0.6112976605234516,1.0281941383178204,398,418,20,0,Low Exposure Manual & Technical
+53-6011,Bridge and Lock Tenders,Transportation,-0.6322159,-0.6326246980546757,-1.0914270108063495,0.7512291798043776,423,539,116,4,Low Exposure Routine Service
+53-6021,Parking Attendants,Transportation,-0.8353891,-0.8359292743789021,-1.15518327059946,0.7885123564560909,472,558,86,4,Low Exposure Routine Service
+53-6031,Automotive and Watercraft Service Attendants,Transportation,-1.221489,-1.2222788351887244,-1.0249168747992052,1.049478533594546,579,523,-56,0,Low Exposure Manual & Technical
+53-6041,Traffic Technicians,Transportation,0.3995872,0.3998455888508976,-0.04527147299622001,-0.017740682599730526,255,338,83,1,Moderate Exposure Service & Healthcare
+53-6051,Transportation Inspectors,Transportation,-0.18376,-0.1838788164639951,-0.3822727069924382,0.37286749035822686,333,379,46,0,Low Exposure Manual & Technical
+53-6061,Passenger Attendants,Transportation,-0.3752249,-0.3754675219402114,-0.7011311578378208,0.08616405114230646,367,436,69,4,Low Exposure Routine Service
+53-7011,Conveyor Operators and Tenders,Transportation,-0.7554432,-0.7559316795762462,-1.0048481659075383,1.0434195076157007,451,519,68,0,Low Exposure Manual & Technical
+53-7021,Crane and Tower Operators,Transportation,-1.030619,-1.0312854143881212,-1.348088632981465,1.505866449806858,531,601,70,0,Low Exposure Manual & Technical
+53-7031,Dredge Operators,Transportation,-1.016648,-1.0173053804278067,-1.4569175876309264,1.2228660678263081,528,626,98,0,Low Exposure Manual & Technical
+53-7041,Hoist and Winch Operators,Transportation,-0.9781997,-0.978832218899186,-1.2151413507483855,1.3596980047651552,518,570,52,0,Low Exposure Manual & Technical
+53-7051,Industrial Truck and Tractor Operators,Transportation,-1.39869,-1.3995944173089512,-1.3982633399310793,1.5461905981358797,604,617,13,0,Low Exposure Manual & Technical
+53-7061,Cleaners of Vehicles and Equipment,Transportation,-1.629897,-1.6309509209137347,-1.1248302435781399,0.8858613454312286,627,550,-77,4,Low Exposure Routine Service
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",Transportation,-1.709183,-1.7102881890103272,-1.320551910303585,1.1404268322827888,630,596,-34,0,Low Exposure Manual & Technical
+53-7063,Machine Feeders and Offbearers,Transportation,-1.037413,-1.0380838075401058,-1.4495963831820047,0.8366196687696044,533,625,92,4,Low Exposure Routine Service
+53-7064,"Packers and Packagers, Hand",Transportation,-1.51362,-1.514598733611216,-0.9247992235073209,0.7517209240917476,615,492,-123,4,Low Exposure Routine Service
+53-7071,Gas Compressor and Gas Pumping Station Operators,Transportation,-0.6909992,-0.6914460086480015,-0.8492889927457999,1.0892625858431229,434,473,39,0,Low Exposure Manual & Technical
+53-7072,"Pump Operators, Except Wellhead Pumpers",Transportation,-0.8422927,-0.8428373384006921,-0.8013171936466749,1.1595749557782835,473,461,-12,0,Low Exposure Manual & Technical
+53-7073,Wellhead Pumpers,Transportation,-1.091197,-1.0919025854745097,-0.9406225327067886,0.9405670703974798,547,498,-49,0,Low Exposure Manual & Technical
+53-7081,Refuse and Recyclable Material Collectors,Transportation,-1.283373,-1.2842028507638517,-2.048943803799903,1.2575585806824345,591,654,63,4,Low Exposure Routine Service
+53-7121,"Tank Car, Truck, and Ship Loaders",Transportation,-1.38776,-1.3886573497270862,-1.1630103379888967,1.5144759108899204,601,560,-41,0,Low Exposure Manual & Technical
