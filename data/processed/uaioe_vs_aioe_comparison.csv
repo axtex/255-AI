@@ -1,0 +1,7 @@
+Outcome,AIOE,UAIOE,UAIOE_better,R²_difference
+Employment 2019→2022,0.0259,0.0382,True,0.0123
+Employment 2019→2024,0.0368,0.0652,True,0.0284
+Employment 2022→2024,0.0058,0.0164,True,0.0106
+Wage 2019→2022,0.098,0.0948,False,-0.0032
+Wage 2019→2024,0.109,0.12,True,0.011
+Wage 2022→2024,0.0215,0.0293,True,0.0078
