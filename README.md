@@ -1,6 +1,6 @@
 # Impact of AI on Work
 
-A data science study of AI exposure risk across 655 U.S. occupations, combining labor market outcomes (BLS), occupational skill profiles (O\*NET), and expert AI exposure scores (Felten AIOE) to understand how AI affects employment and wages.
+A data science study of AI exposure risk across 655 U.S. occupations, combining labor market outcomes (BLS), occupational skill profiles (O\*NET), and expert AI exposure scores (Felten AIOE) to understand how AI affects employment and wages. Created for CMPE 255 at SJSU.
 
 ## Research Questions
 
